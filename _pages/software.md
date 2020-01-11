@@ -2,7 +2,7 @@
 title: Software
 subtitle: information and links to open-source software projects
 description: information and links to open-source software projects
-featured_image: /images/demo/contact.jpg
+featured_image: /images/pages/Kaust_confroom_crop1.jpg
 ---
 
 ## Software developement
