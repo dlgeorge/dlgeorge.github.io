@@ -11,7 +11,7 @@ featured_image: /images/pages/CVO_library.jpg
 * Characterizing seasonally rainfall-driven movement of a translational landslide using SAR imagery and SMAP soil moisture. Y. Xu, J. Kim, D. L. George, Z. Lu, 2019. *Remote Sensing* 11 (20), 2347.
 * Combining InSAR and GPS to determine transient movement and thickness of a seasonally active low-gradient translational landslide. X. Hu, Z. Lu, T. C. Pierson, R. Kramer and D. L. George, 2018. *Geophys. Res. Lett.*, V. 45(3), 1453--1462.
 * Basal stress equations for granular debris masses on smooth or discretized slopes. R. M. Iverson, D. L. George, 2019. *J. Geophys. Res.: Earth Surface*
-* Surrogate-based parameter inference in debris flow model. M. Navarro, O. P. Le Maître, I. Hoteit, D. L. George, K. T. Mandli, O. M. Knio.
+* Surrogate-based parameter inference in debris flow model. M. Navarro, O. P. Le Maître, I. Hoteit, D. L. George, K. T. Mandli, O. M. Knio, 2018.
 *Computational Geosciences,* 22 (6), 1447--1463
 *  New methodology for computing tsunami generation by subaerial landslides: application to the 2015 Tyndall Glacier Landslide, Alaska. D. L. George, R. M. Iverson, C. M. Cannon, 2017. *Geophys. Res. Lett.*, V. 44(14), 7276--7284.
 * Debris flow runup on vertical barriers and adverse slopes. R. M. Iverson, D. L. George, M. Logan, 2016. *J. Geophys. Res.: Earth Surface,* V. 121(12), 2333--2357.
