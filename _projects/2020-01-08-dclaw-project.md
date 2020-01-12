@@ -14,13 +14,13 @@ D-Claw is an open-source numerical software package developed at the USGS for mo
 
 ### code
 
-D-Claw is built on top of Clawpack v4.x code. It is a generalization, or extension, of the v4.x GeoClaw code, incorporating GeoClaw's numerical algorithms for general free-surface flows over topography. However, D-Claw solves an extended two-phase (solid-fluid) shallow-flow model (see below).
+D-Claw is built on top of Clawpack v4.x code. It is a generalization, or extension, of the v4.x GeoClaw code, incorporating GeoClaw's numerical algorithms for general free-surface flows over topography. However, D-Claw solves an extended two-phase (solid-fluid) shallow-flow model (see more below).
 
 The current version of D-Claw v4.x is available at github: [www.github.com/dlgeorge/D-Claw](www.github.com/dlgeorge/D-Claw). Merging D-Claw's features into the current Clawpack v5.x code is planned in the future. 
 
 ### mathematical model
 
-The two-phase granular-fluid model implemented in D-Claw is based on mathematical models developed by Richard Iverson and Dave George at the USGS. This model combines principles from fluid, solid, and soil mechanics. A unique feature of the model is the coupled evolution of the solid-grain concentration and the basal pore-fluid pressure, which mediates the coulomb effective stress. The resulting non-linear system of PDEs is a strictly hyperbolic system, similar to the more basic shallow water equations. The development of this model was informed by controlled experiments conducted and the USGS debris-flow flume over the last ~ 25 years. The aim of those experiments was to investigate the complex physics of debris-flow initiation and mobility. For details see publications below.
+The two-phase granular-fluid model implemented in D-Claw is based on mathematical models developed by [Richard Iverson]() and Dave George at the USGS. This model combines principles from fluid, solid, and soil mechanics. A unique feature of the model is the coupled evolution of the solid-grain concentration and the basal pore-fluid pressure, based on the principles of granular dilatancy. This co-evolution mediates the coulomb effective stress and hence the mobility of the flow. The resulting non-linear system of PDEs is a strictly hyperbolic system, similar to the more basic shallow water equations. The development of this model was informed by controlled experiments conducted at the USGS debris-flow flume over the last ~ 25 years. The aim of those experiments was to investigate the complex physics of debris flows, including their initiation and mobility. For more details see publications below.
 
 
 ---
