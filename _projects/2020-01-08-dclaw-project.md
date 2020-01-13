@@ -62,10 +62,10 @@ Selected D-Claw animations (to appear):
 
 ### related publications
 
-*  A depth-averaged debris-flow model that includes the effects of evolving dilatancy: 1. Physical basis. R. M. Iverson and D. L. George, 2014. *Proc. R. Soc. A*, 470 (2170).
-* A depth-averaged debris-flow model that includes the effects of evolving dilatancy: 2. Numerical predictions and experimental tests. D. L. George and R. M. Iverson, 2014. *Proc. R. Soc. A*, 470 (2170). 
-* Landslides that liquefy: modeling mobility bifurcation and the 2014 Oso, Washington, USA disaster. R. M. Iverson, D. L. George, 2016. *Geotechnique*, V. 66(3), pp. 175--187.
-* Landslide mobility and hazards: implications of the 2014 Oso disaster. R. M. Iverson, D. L. George, et al., 2015. *Earth Planet. Sci. Lett.*, V. 412, pp. 197--208.
-*  New methodology for computing tsunami generation by subaerial landslides: application to the 2015 Tyndall Glacier Landslide, Alaska. D. L. George, R. M. Iverson, C. M. Cannon, 2017. *Geophys. Res. Lett.*, V. 44(14), 7276--7284.
-* The GeoClaw software for depth-averaged flows with adaptive refinement.  M. J. Berger, D. L. George, R. J. LeVeque and K. T. Mandli, 2011. *Advances in Water Resources*, 34: 1195--1206. doi: 10.1016/j.advwatres.2011.02.016.
-* Augmented Riemann solvers for the shallow water equations over variable topography with steady states and inundation. D. L. George, 2008. *J. Comput. Phys.*, 227(6): 3089--3113.
+*  **A depth-averaged debris-flow model that includes the effects of evolving dilatancy: 1. Physical basis.** R. M. Iverson and D. L. George, 2014. *Proc. R. Soc. A*, 470 (2170).
+* **A depth-averaged debris-flow model that includes the effects of evolving dilatancy: 2. Numerical predictions and experimental tests.** D. L. George and R. M. Iverson, 2014. *Proc. R. Soc. A*, 470 (2170). 
+* **Landslides that liquefy: modeling mobility bifurcation and the 2014 Oso, Washington, USA disaster.** R. M. Iverson, D. L. George, 2016. *Geotechnique*, V. 66(3), 175--187.
+* **Landslide mobility and hazards: implications of the 2014 Oso disaster.** R. M. Iverson, D. L. George, et al., 2015. *Earth Planet. Sci. Lett.*, V. 412, pp. 197--208.
+*  **New methodology for computing tsunami generation by subaerial landslides: application to the 2015 Tyndall Glacier Landslide, Alaska.** D. L. George, R. M. Iverson, C. M. Cannon, 2017. *Geophys. Res. Lett.*, V. 44(14), 7276--7284.
+* **The GeoClaw software for depth-averaged flows with adaptive refinement.**  M. J. Berger, D. L. George, R. J. LeVeque and K. T. Mandli, 2011. *Advances in Water Resources*, 34: 1195--1206. doi: 10.1016/j.advwatres.2011.02.016.
+* **Augmented Riemann solvers for the shallow water equations over variable topography with steady states and inundation.** D. L. George, 2008. *J. Comput. Phys.*, 227(6): 3089--3113.
