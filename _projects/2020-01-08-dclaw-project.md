@@ -16,7 +16,9 @@ D-Claw is an open-source numerical software package developed at the USGS for mo
 
 D-Claw is built on top of Clawpack v4.x code. It is a generalization, or extension, of the v4.x GeoClaw code, incorporating GeoClaw's numerical algorithms for general free-surface flows over topography. However, D-Claw solves an extended two-phase (solid-fluid) shallow-flow model (see more below).
 
-The current version of D-Claw v4.x is available at github: [www.github.com/dlgeorge/D-Claw](www.github.com/dlgeorge/D-Claw). Merging D-Claw's features into the current Clawpack v5.x code is planned in the future. 
+The current version of D-Claw v4.x is available at github: [github.com/geoflows/D-Claw](https://github.com/geoflows/D-Claw). Merging D-Claw's features into the current Clawpack v5.x code is planned in the future. 
+
+See [software](/software/) for more information.
 
 ### mathematical model
 

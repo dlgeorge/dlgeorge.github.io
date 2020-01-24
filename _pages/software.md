@@ -32,9 +32,36 @@ A repository for applications is also available:
 
 * [github.com/geoflows/dclaw-apps](https://github.com/geoflows/dclaw-apps).
 
-The application repository is in progress, as is documentation for D-Claw. If you would like to make contributions to either of these repositories, please follow the development workflow used for Clawpack, described at [http://www.clawpack.org/developers.html](http://www.clawpack.org/developers.html). Briefly, please fork the repositories to your own github account, and issue pull requests on a feature branch to github/geoflows.
+The application repository is in progress, as is documentation for D-Claw. If you would like to make contributions to either of these repositories, please follow the development workflow used for Clawpack, described at [www.clawpack.org/developers](http://www.clawpack.org/developers.html). Briefly, please fork the repositories to your own github account, and issue pull requests on a feature branch to github/geoflows, *eg,*:
 
-Licenses and use of D-Claw inherit the Clawpack licenses. 
+```
+git clone git://github.com/geoflows/D-Claw.git
+cd D-Claw
+git remote add username htpps://github.com/username/D-Claw.git
+```
+or if you have ssh keys and want to avoid typing your password when you push to github:
+
+```
+git remote add username git@github.com:username/D-Claw.git
+```
+Develop in a branch other than master:
+```
+git checkout -b my_branch
+```
+And then push to your repository:
+```
+git push username my_branch
+```
+Issue pull requests to geoflows/D-Claw from your repository to contribute to D-Claw. Update your master branches from geoflows/D-Claw:
+```
+git pull origin master
+```
+If you prefer, rename origin to something easy to remember ("geoflows" or "upstream" or similar):
+```
+git remote rename origin geoflows
+```
+
+D-Claw inherits the Clawpack licenses and user agreeements. 
 
 
 
