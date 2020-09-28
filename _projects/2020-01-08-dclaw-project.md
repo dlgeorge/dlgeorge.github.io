@@ -10,7 +10,7 @@ featured_image: '/images/pages/MSH2_crop2.jpg'
 
 ## Overview
 
-D-Claw is an open-source numerical software package for modeling granular-fluid flows (landslides, debris flows, etc.). D-Claw is built on top of [Clawpack](www.clawpack.org) and [GeoClaw](www.geoclaw.org) software. D-Claw implements a two-phase granular mathematical model developed by Richard Iverson and David George at the U.S. Geological Survey. 
+D-Claw is an open-source numerical software package for modeling granular-fluid flows (landslides, debris flows, etc.). D-Claw is built on top of [Clawpack](http://www.clawpack.org) and [GeoClaw](http://www.geoclaw.org) software. D-Claw implements a two-phase granular mathematical model developed by Richard Iverson and David George at the U.S. Geological Survey. 
 
 ### software features
 

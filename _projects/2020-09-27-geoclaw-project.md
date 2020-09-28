@@ -10,7 +10,7 @@ featured_image: '/images/projects/geoclaw/tsunamis/Pacific2011.png'
 
 ## Overview
 
-GeoClaw is an open-source numerical software package for modeling water-wave propagation and inundation (tsunamis, storm surges, overland flooding) with the shallow water equations. It is an extension and subset of [Clawpack](www.clawpack.org) -- adaptive finite-volume software for general hyperbolic PDEs (wave-propagation problems). 
+GeoClaw is an open-source numerical software package for modeling water-wave propagation and inundation (tsunamis, storm surges, overland flooding) with the shallow water equations. It is an extension and subset of [Clawpack](http://www.clawpack.org) -- adaptive finite-volume software for general hyperbolic PDEs (wave-propagation problems). 
 
 ### software features
 
@@ -23,13 +23,13 @@ GeoClaw also employs specialized algorithms (*e.g.,* a well-balanced Riemann sol
 
 ### source code
 
-GeoClaw is actively developed and has been extensively improved by the Clawpack development team since its inception. It is included with Clawpack releases (now version 5.7). See [Clawpack](www.clawpack.org) for more information. Source code and git repositories are available at [www.github.com/clawpack](www.github.com/clawpack). 
+GeoClaw is actively developed and has been extensively improved by the Clawpack development team since its inception. It is included with Clawpack releases (now version 5.7). See [Clawpack](http://www.clawpack.org) for more information. Source code and git repositories are available at [www.github.com/clawpack](http://github.com/clawpack). 
 
 Older versions of GeoClaw source code, built on top of Clawpack 4.x, are available from a git repository [github.com/geoflows/geoclaw-4.x](github.com/geoflows/geoclaw-4.). This version contains features that facilitate overland flooding problems. For most users the latest GeoClaw version included with Clawpack is recommended. 
 
 ### application examples and galleries
 
-a few examples of GeoClaw applications are below. See also [clawpack.org](www.clawpack.org).
+a few examples of GeoClaw applications are below. See also [clawpack.org](http://www.clawpack.org).
 
 ---
 #### modeling transoceanic tsunami propagation and inundation: the 2011 Tohoku Tsunami.
