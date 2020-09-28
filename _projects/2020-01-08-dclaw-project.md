@@ -22,7 +22,7 @@ The two-phase granular-fluid model implemented in D-Claw is based on mathematica
 
 ### model development and extensions
 
-
+Ongoing D-Claw development is aimed at extending its capabilities to more general surface flow processes through the incorporation and refinement of physical and mathematical submodels. Recent examples include the extension of our two-phase model to the full spectrum of surface flows with evolving sediment loads (from pure water to solid-granular flows), enabling the modeling of the interaction of water bodies and granular mixtures (*e.g.,* landslide-generated tsunamis, landslide and debris flow interactions with lakes and rivers). The incorporation of entrainment of erodible sediment has further extended D-Claw's capabilities to include flood and debris-flow bulking, earthen-dam erosion, lake outburst flood modeling, and debris-entraining tsunami inundation. Extension of D-Claw to post-wildfire debris flows, in which overland flow entrains sediment, is an active and collaborative current research project. Additional previous extensions include particle-size segregation and levee formation (an important process for debris-flow dynamics). Rainfall infiltration and pore-pressure diffusion modeling are also actively under development. See [projects](/projects) for specific applications.   
 
 ### source code
 
