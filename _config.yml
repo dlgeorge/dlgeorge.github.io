@@ -1,7 +1,7 @@
 site: David L George
 
 url: https://dlgeorge.github.io/
-baseurl: /dlgeorge.github.io
+baseurl: 
 
 collections:
   pages:
