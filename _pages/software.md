@@ -9,7 +9,7 @@ featured_image: /images/pages/Kaust_confroom_crop1.jpg
 
 #### Clawpack
 
-Clawpack is an open-source project and software package for solving hyperbolic conservation laws (and related sytems of PDEs) utilizing adaptive finite volume wave propagation algorithms. For an overview, documentation, or other information on how to use or contribute, see the official Clawpack site ([clawpack.org](http://www.clawpack.org)). Clawpack source-code and other repositories are hosted on github ([github.com/clawpack](https://github.com/clawpack)).
+Clawpack is an open-source project and software package for solving hyperbolic conservation laws (and related sytems of PDEs) utilizing adaptive finite volume wave propagation algorithms. For an overview, documentation, or other information on how to use or contribute, see the official Clawpack site, [clawpack.org](http://www.clawpack.org). Clawpack source-code and other repositories are hosted on github at [github.com/clawpack](https://github.com/clawpack).
 
 
 #### GeoClaw
