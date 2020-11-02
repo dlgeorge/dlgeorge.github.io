@@ -5,18 +5,18 @@ description: information and links to open-source software projects
 featured_image: /images/pages/Kaust_confroom_crop1.jpg
 ---
 
-## Software developement
+## Software development
 
 #### Clawpack
 
-Clawpack is an open source and collaboratively developed software package for solving hyperbolic conservation laws (and related sytems of PDEs) utilizing adaptive finite volume wave propagation algorithms. See the Clawpack site ([clawpack.org](http://www.clawpack.org)) for an overview, documentation, and other information for developers and users. The Clawpack source-code repositories can be accessed directly on github ([github.com/clawpack](https://github.com/clawpack)).
+Clawpack is an open-source project and software package for solving hyperbolic conservation laws (and related sytems of PDEs) utilizing adaptive finite volume wave propagation algorithms. For an overview, documentation, or other information on how to use or contribute, see the official Clawpack site ([clawpack.org](http://www.clawpack.org)). The Clawpack source-code repositories can be accessed directly on github ([github.com/clawpack](https://github.com/clawpack)).
 
 
 #### GeoClaw
 
-GeoClaw is open-source software for simulating shallow earth-surface flows involving water wave propagation and inundation (*eg.*, tsunamis, storm surges and general overland flooding problems) GeoClaw is a subset of, and included with, Clawpack --- additional info is available at Clawpack's GeoClaw site ([geoclaw.org](http://www.geoclaw.org)). 
+GeoClaw is open-source software for simulating shallow earth-surface flows involving water-wave propagation and inundation (*e.g.*, tsunamis, storm surges and general overland flooding problems). GeoClaw is a subpackage included with the latest versions of Clawpack. Specific information related to GeoClaw is available at the site ([geoclaw.org](http://www.geoclaw.org)). 
 
-The GeoClaw source code included with Clawpack has the latest enhancements of the current Clawpack code (v5). 
+The GeoClaw source code is included with the latest versions of Clawpack (v5). 
 
 #### D-Claw
 
