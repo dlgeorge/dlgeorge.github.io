@@ -2,12 +2,12 @@
 title: About
 subtitle: I am a Research Mathematician for the US Geological Survey, Cascades Volcano Observatory. I live in Portland, Oregon.
 description: I am a Research Mathematician for the US Geological Survey, Cascades Volcano Observatory. I live in Portland, Oregon.
-featured_image: /images/pages/George2020_chair_crop1.jpg
+featured_image: /images/pages/Vesuvio_dlg_crop.jpg
 ---
 
 ## Summary
 
-My research is broadly in applied mathematics and scientific computation. I develop mathematical models, numerical algorithms, and open-source software for applications in computational geophysics. My mathematical focus involves PDEs (particularly hyperbolic systems), finite-volume numerical methods, and adaptive mesh refinement techniques. My application focus is on earth-surface flows, multi-phase flows, and wave propagation (tsunamis, overland flooding, and granular-fluid flows such as landslides and debris flows.)
+My research is broadly in applied mathematics and scientific computing. I study and develop mathematical models, numerical algorithms, and open-source software for applications in computational geophysics. My mathematical focus involves PDEs (particularly hyperbolic systems), finite volume numerical methods, and adaptive mesh refinement techniques. I study problems in geophysics involving wave propagation and flows, particularly shallow earth-surface flows with varying granular and fluid compositions. Examples include tsunamis, overland flooding, sediment-laden flows, and dense granular-fluid flows such as landslides and debris flows.
 
 ## Appointments
 

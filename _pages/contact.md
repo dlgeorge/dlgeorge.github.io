@@ -1,7 +1,7 @@
 ---
 title: Contact
 subtitle: email and other info below 
-featured_image: /images/pages/OvalOffice.jpg
+featured_image: /images/pages/George2020_couch_crop1.jpg
 ---
 
 email me directly at dgeorge@uw.edu
