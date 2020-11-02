@@ -9,12 +9,12 @@ featured_image: /images/pages/Kaust_confroom_crop1.jpg
 
 #### Clawpack
 
-Clawpack is an open-source project and software package for solving hyperbolic conservation laws (and related sytems of PDEs) utilizing adaptive finite volume wave propagation algorithms. For an overview, documentation, or other information on how to use or contribute, see the official Clawpack site ([clawpack.org](http://www.clawpack.org)). The Clawpack source-code repositories can be accessed directly on github ([github.com/clawpack](https://github.com/clawpack)).
+Clawpack is an open-source project and software package for solving hyperbolic conservation laws (and related sytems of PDEs) utilizing adaptive finite volume wave propagation algorithms. For an overview, documentation, or other information on how to use or contribute, see the official Clawpack site ([clawpack.org](http://www.clawpack.org)). Clawpack source-code and other repositories are hosted on github ([github.com/clawpack](https://github.com/clawpack)).
 
 
 #### GeoClaw
 
-GeoClaw is open-source software for simulating shallow earth-surface flows involving water-wave propagation and inundation (*e.g.*, tsunamis, storm surges and general overland flooding problems). GeoClaw is a subpackage available for the latest versions (v5) of Clawpack, with source-code repositories hosted with Clawpack at [github.com/clawpack](https://github.com/clawpack). Information related to GeoClaw is available at [geoclaw.org](http://www.geoclaw.org) and [clawpack.org](http://www.clawpack.org).  
+GeoClaw is open-source software for simulating shallow earth-surface flows involving water-wave propagation and inundation (*e.g.*, tsunamis, storm surges and general overland flooding problems). GeoClaw is a subpackage available with the latest versions (v5) of Clawpack. Source-code repositories are hosted at the Clawpack github site [github.com/clawpack](https://github.com/clawpack). Information related specifically to GeoClaw is available at [geoclaw.org](http://www.geoclaw.org).  
 
 
 #### D-Claw
