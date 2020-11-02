@@ -11,11 +11,11 @@ My research is broadly in applied mathematics and scientific computing. I study 
 
 ## Appointments
 
-* 2012-Present: U.S. Geological Survey, Research Mathematician
-* 2008-2012: U.S. Geological Survey, Mendenhall Postdoctoral Fellow.
-* 2007-2008: University of Washington, Applied Mathematics, VIGRE Acting Asst. Professor.
-* 2006-2007: University of Utah, Mathematics, NSF-RTG Postdoctoral Fellow.
-* 2001-2006: University of Washington, Applied Mathematics, teaching & research asst. (grad student).
+* 2012-Present: Research Mathematician, USGS, Cascades Volcano Observatory.
+* 2008-2012: Mendenhall Postdoctoral Fellow, USGS, Cascades Volcano Observatory.
+* 2007-2008: VIGRE Acting Asst. Prof. of Applied Mathematics, Univ. of Wash.
+* 2006-2007: NSF-RTG Acting Asst. Prof. of Mathematics, University of Utah.
+* 2001-2006: teaching & research asst. (grad student) Applied Mathematics, Univ. of Wash.
 
 ## Education
 
