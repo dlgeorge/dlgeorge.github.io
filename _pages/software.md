@@ -14,9 +14,8 @@ Clawpack is an open-source project and software package for solving hyperbolic c
 
 #### GeoClaw
 
-GeoClaw is open-source software for simulating shallow earth-surface flows involving water-wave propagation and inundation (*e.g.*, tsunamis, storm surges and general overland flooding problems). GeoClaw is a subpackage included with the latest versions of Clawpack. Specific information related to GeoClaw is available at the site ([geoclaw.org](http://www.geoclaw.org)). 
+GeoClaw is open-source software for simulating shallow earth-surface flows involving water-wave propagation and inundation (*e.g.*, tsunamis, storm surges and general overland flooding problems). GeoClaw is a subpackage available for the latest versions (v5) of Clawpack, with source-code repositories hosted with Clawpack at [github.com/clawpack](https://github.com/clawpack). Information related to GeoClaw is available at [geoclaw.org](http://www.geoclaw.org) and [clawpack.org](http://www.clawpack.org).  
 
-The GeoClaw source code is included with the latest versions of Clawpack (v5). 
 
 #### D-Claw
 
