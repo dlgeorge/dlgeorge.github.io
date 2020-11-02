@@ -1,6 +1,6 @@
 ---
 title: Software
-subtitle: information and links to open-source software projects
+subtitle: information and links to open-source projects
 description: information and links to open-source software projects
 featured_image: /images/pages/Kaust_confroom_crop1.jpg
 ---
@@ -55,7 +55,7 @@ And then push to your repository:
 ```
 git push username my_branch
 ```
-Issue pull requests to geoflows/D-Claw from your repository to contribute to D-Claw. Update your master branches from geoflows/D-Claw:
+Issue pull requests to geoflows/D-Claw from your account on github to contribute to D-Claw. Update your master branches from geoflows/D-Claw:
 ```
 git pull origin master
 ```
