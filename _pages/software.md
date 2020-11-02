@@ -21,7 +21,7 @@ GeoClaw is open-source software for simulating shallow earth-surface flows invol
 
 D-Claw is an open-source package for modeling shallow two-phase flows, such as dense granular-fluid mixtures like landslides and debris flows. It can also be used for modeling hybrid problems involving the interaction of variably concentrated granular mixtures and water (*eg.*, landslide-generated tsunamis, dam breach floods, fluid or solid entrainment by inundating or overlying flows). D-Claw was developed in collaboration with Richard Iverson at the USGS. A detailed description of the model underlying the D-Claw software can be found in, **A depth-averaged debris-flow model that includes the effects of evolving dilatancy,** *Proc. R. Soc. A*, 470 (2170), **1.** Iverson & George and **2.** George & Iverson, 2014. 
 
-The documentation for the latest version of Clawpack and GeoClaw (v5), available at [clawpack.org](http://www.clawpack.org), provides a general overview of the methodologies underlying the D-Claw software. However, D-Claw is built on legacy versions of Clawpack and GeoClaw (v4). The Clawpack v4 source code is available at [github.com/clawpack/clawpack-4.x](https://github.com/clawpack/clawpack4.x). An additional legacy version of GeoClaw (v4) is available at [github.com/geoflows/geoclaw-4.x](https://github.com/geoflows/geoclaw4.x) Documentation for D-Claw is still in progress, but basic usage instructions are available in source-code and application repositories below.
+The documentation for the latest version of Clawpack and GeoClaw (v5), available at [clawpack.org](http://www.clawpack.org), provides a general overview of the methodologies underlying the D-Claw software. However, D-Claw is built on legacy versions of Clawpack and GeoClaw (v4). The Clawpack v4 source code is available at [github.com/clawpack/clawpack-4.x](https://github.com/clawpack/clawpack4.x). An additional legacy version of GeoClaw (v4) is available at [github.com/geoflows/geoclaw-4.x](https://github.com/geoflows/geoclaw4.x) Documentation for D-Claw is still in progress, but basic usage instructions are available in source-code and application repositories below. D-Claw inherits the Clawpack licenses and user agreeements. 
 
 The source code and latest git repository for D-Claw are available on github:
 
@@ -40,8 +40,9 @@ git clone git://github.com/geoflows/D-Claw.git
 cd D-Claw
 git remote add username htpps://github.com/username/D-Claw.git
 ```
-or fork on github to username and fork that.
-or if you have ssh keys and want to avoid typing your password when you push to github:
+Alternatively, you can fork D-Claw on github to your account, *username,* clone that, and set your remotes appropriately so that you can pull from geoflows/D-Claw and push to your own acount.
+
+If you have ssh keys and want to avoid typing your password when you push to github, use:
 
 ```
 git remote add username git@github.com:username/D-Claw.git
@@ -63,7 +64,6 @@ If you prefer, rename origin to something easy to remember ("geoflows" or "upstr
 git remote rename origin geoflows
 ```
 
-D-Claw inherits the Clawpack licenses and user agreeements. 
 
 
 
