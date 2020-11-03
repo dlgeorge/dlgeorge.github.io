@@ -2,7 +2,7 @@
 title: 'Cascading flow hazards'
 subtitle: 'modeling landslides, waves, breach erosion, and flows with D-Claw'
 date: 2018-01-08 00:00:00
-description: D-Claw is extended to simulate a landslide that induces wave-generated dam erosion and resulting outburst floods that entrain material leading to downslope debris flows. Hypothetical case study - South Sister Volcano and moraine-dammed Carver Lake, Oregon.
+description: Hypothetical case study - South Sister Volcano and moraine-dammed Carver Lake, Oregon.
 featured_image: '/images/projects/carver/Summit2Lake_frame00035.png'
 ---
 
