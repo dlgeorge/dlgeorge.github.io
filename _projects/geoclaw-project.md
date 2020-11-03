@@ -8,24 +8,9 @@ featured_image: '/images/projects/geoclaw/tsunamis/Pacific2011.png'
 
 ![](/images/projects/geoclaw/tsunamis/Pacific2011_HI.png)
 
-## Overview
+### overview
 
-GeoClaw is an open-source numerical software package for modeling water-wave propagation and inundation (tsunamis, storm surges, overland flooding) with the shallow water equations. It is an extension and subset of [Clawpack](http://www.clawpack.org) -- adaptive finite-volume software for general hyperbolic PDEs (wave-propagation problems). 
-
-### software features
-
-GeoClaw, originally called TsunamiClaw, was first developed for modeling tsunami propagation and inundation ([George2006]({{ site.baseurl }}/pubs/George2006_Phd.pdf)). It features patch-based adaptive mesh refinement algorithms (AMR) (Berger, 1989) tailored to the problem of tsunami modeling ([George, 2006; ]({{ site.baseurl }}/pubs/George2006_Phd.pdf)[LeVeque, George, et al., 2011]({{ site.baseurl }}/pubs/LeVequeGeorgeEtAl2011_ActaNumerica.pdf)) by using specialized interpolation and coarsening strategies that enable the preservation of ubiquitous but numerically challenging steady states (*e.g.,* ocean at rest) and proper resolution of shorelines without the spurious introduction of momentum and potential energy. Coseismic tsunamis have relatively long wave lengths (100s of km), are localized but travel across ocean basins, compress greatly in coastal waters, and are strongly influenced by near-shore and inland topographic features. Therefore, optimal numerical grid resolutions vary greatly in space and time. Geoclaw's AMR enables the computation of global-scale tsunami propagation and highly-refined coastal inundation in single simulations.
-
-GeoClaw automates the use of multiple overlapping DEMs (topography and bathymetry) with arbitrary resolutions, registrations, and boundaries. This feature was developed to ensure proper mass conservation upon arbitrary adaptive refinement, but it also facilitates model set up by preventing the need for preprocessing or synthesis of multiple data sets. 
-
-GeoClaw also employs specialized algorithms (*e.g.,* a well-balanced Riemann solver [(George, 2008)]({{ site.baseurl }}/pubs/George2008_JCP.pdf) developed for the preservation of steady states and accurate resolution of inundation fronts moving over topography (well-known numerical challenges). Although originally developed for tsunamis, GeoClaw's algorithms are more generally applicable to free-surface water flows over topography, and it has been generalized and extended to a variety of such applications (hurricane storm surges (*e.g.,* Mandli, 2014), dam breaches and overland flooding (*e.g.,* [George, 2010]({{ site.baseurl }}/pubs/George2010_IJNMF.pdf)), fluvial processes, etc.) 
-
-
-### source code
-
-GeoClaw is actively developed and has been extensively improved by the Clawpack development team since its inception. It is included with Clawpack releases (now version 5.7). See [Clawpack](http://www.clawpack.org) for more information. Source code and git repositories are available at [www.github.com/clawpack](http://github.com/clawpack). 
-
-Older versions of GeoClaw source code, built on top of Clawpack 4.x, are available from a git repository [github.com/geoflows/geoclaw-4.x](http://github.com/geoflows/geoclaw-4.). This version contains features that facilitate overland flooding problems. For most users the latest GeoClaw version included with Clawpack is recommended. 
+GeoClaw is open-source software for simulating shallow earth-surface flows involving water-wave propagation and inundation (*e.g.*, tsunamis, storm surges and general overland flooding problems). See [software](/software/) for an overview, background information, links to research, or information related to source-code development. 
 
 ### application examples and galleries
 
