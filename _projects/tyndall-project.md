@@ -1,8 +1,8 @@
 ---
 title: 'Landslide tsunamis'
-subtitle: 'modeling landslide-generated tsunamis with D-Claw'
+subtitle: 'modeling landslides, wave generation, and tsunamis with D-Claw'
 date: 2017-01-08 00:00:00
-description: D-Claw is extended to seamlessly simulate subaerial landslide tsunamis. Case study - the 2015 Tyndall Glacier (Alaska) landslide and tsunami.
+description: D-Claw is extended to simulate subaerial landslide tsunamis. Case study - the 2015 Tyndall Glacier (Alaska) landslide and tsunami.
 featured_image: '/images/projects/tyndall/ObliqueDClaw60s.png'
 ---
 
