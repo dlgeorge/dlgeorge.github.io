@@ -11,7 +11,7 @@ featured_image: '/images/projects/carver/Summit2Lake_frame00035.png'
 
 This page features material from:
 
-**Seamless numerical simulation of a hazard cascade in which a landslide triggers a dam-breach flood and consequent debris flow,** D.L. George, R.M. Iverson, and C.M. Cannon, 2020. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.*
+**Seamless numerical simulation of a hazard cascade in which a landslide triggers a dam-breach flood and consequent debris flow,** D.L. George, R.M. Iverson, and C.M. Cannon, 2020. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.* [pdf]({{ site.baseurl }}/pubs/GeorgeIversonCannon_7thDFHM.pdf)
 
 ![](/images/projects/carver/Summit2Lake_frame00035.png)
 

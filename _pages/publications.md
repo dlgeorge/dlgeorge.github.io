@@ -28,7 +28,7 @@ featured_image: /images/pages/CVO_library.jpg
 
 #### Other articles (proceedings, book chapters, technical reports, etc.)
 * **Modeling the dynamics of lahars that originate as landslides on the west side of Mount Rainier: Preliminary results,** D.L. George, R.M. Iverson, and C.M. Cannon, 2020. *USGS open file report*, to appear.
-* **Seamless numerical simulation of a hazard cascade in which a landslide triggers a dam-breach flood and consequent debris flow,** D.L. George, R.M. Iverson, and C.M. Cannon, 2020. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.*
+* **Seamless numerical simulation of a hazard cascade in which a landslide triggers a dam-breach flood and consequent debris flow,** D.L. George, R.M. Iverson, and C.M. Cannon, 2020. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.* [pdf]({{ site.baseurl }}/pubs/GeorgeIversonCannon_7thDFHM.pdf)
 * **Valid debris-flow models must avoid hot starts,** R.M. Iverson and D.L. George, 2020. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.*
 * **Diverse cataclysmic floods from Pleistocene Glacial Lake Missoula**, R.P. Denlinger, D.L. George, and C.M. Cannon, 2020. *Geological Society of America Special Paper 548*.
 * **Discussion of "The relation between dilatancy, effective stress and dispersive pressure in granular avalanches" by P. Bartelt and O. Buser.** R.M. Iverson, D.L. George, 2016. *Acta Geotech*, 11(6), 1465--1468.

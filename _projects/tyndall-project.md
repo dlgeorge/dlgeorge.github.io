@@ -11,7 +11,7 @@ featured_image: '/images/projects/tyndall/ObliqueDClaw60s.png'
 
 This page features material from:
 
-[New methodology for computing tsunami generation by subaerial landslides: application to the 2015 Tyndall Glacier Landslide, Alaska. D. L. George, R.M. Iverson and C.M. Cannon, 2017. *Geophys. Res. Lett.*, V. 44(14), 7276--7284]({{ site.baseurl }}/pubs/GeorgeIversonEtAl2017_GRL_Tyndall.pdf).
+New methodology for computing tsunami generation by subaerial landslides: application to the 2015 Tyndall Glacier Landslide, Alaska. D. L. George, R.M. Iverson and C.M. Cannon, 2017. *Geophys. Res. Lett.*, V. 44(14), 7276--7284. [pdf]({{ site.baseurl }}/pubs/GeorgeIversonEtAl2017_GRL_Tyndall.pdf).
 
 ![](/images/projects/tyndall/ObliqueDClaw30s.png)
 
