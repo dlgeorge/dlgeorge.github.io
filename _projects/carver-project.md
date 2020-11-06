@@ -1,7 +1,7 @@
 ---
 title: 'Cascading flow hazards'
 subtitle: 'modeling landslides, waves, breach erosion, and flows with D-Claw'
-date: 2018-01-08 00:00:00
+date: 2018-01-01 00:00:00
 description: Hypothetical case study - South Sister Volcano and moraine-dammed Carver Lake, Oregon.
 featured_image: '/images/projects/carver/Summit2Lake_frame00035.png'
 ---

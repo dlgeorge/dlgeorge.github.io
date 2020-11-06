@@ -1,7 +1,7 @@
 ---
 title: 'D-Claw'
 subtitle: 'software for simulating granular-fluid flows'
-date: 2015-01-01 00:00:00
+date: 3014-01-01 00:00:00
 description: D-Claw is an open-source numerical software package for simulating granular-fluid flows, such as landslides, debris flows, and lahars.
 featured_image: '/images/projects/dclaw/misc/Rainier_frame00015.png'
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Landslide tsunamis'
 subtitle: 'modeling landslides, wave generation, and tsunamis with D-Claw'
-date: 2017-01-08 00:00:00
+date: 2017-01-01 00:00:00
 description: Case study - the 2015 Tyndall Glacier (Alaska) landslide and tsunami.
 featured_image: '/images/projects/tyndall/ObliqueDClaw60s.png'
 ---
