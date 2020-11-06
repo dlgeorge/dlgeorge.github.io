@@ -6,7 +6,7 @@ description: Hypothetical case study - South Sister Volcano and moraine-dammed C
 featured_image: '/images/projects/carver/Summit2Lake_frame00035.png'
 ---
 
-### Hazard assesment near South Sister Volcano, Oregon, based on hypothetical models of Carver Lake outburst floods.
+### Hazard assessment near South Sister Volcano, Oregon, based on hypothetical models of Carver Lake outburst floods.
 
 
 This page features excerpts and material from:
