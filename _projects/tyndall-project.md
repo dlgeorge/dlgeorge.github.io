@@ -39,7 +39,7 @@ taken following the landslide (courtesy of Christopher Larsen, University of Ala
 of the Tyndall Glacier terminus and adjacent landslide source area.
 </figcaption>
 
-<img src="{{ site.baseurl }}/images/projects/tyndall/IcyBay.png">
+<img src="{{ site.baseurl }}/images/projects/tyndall/IcyBay_small.png">
 </figure>
 ---
 
