@@ -3,7 +3,7 @@ title: 'The 2014 Oso, WA disaster'
 subtitle: 'modeling alternative scenarios and mobility with D-Claw'
 date: 2015-01-01 00:00:00
 description: Computations of the 2014 Oso, WA disaster reveal mobility bifurcations related to initial and critical porosities.
-featured_image: '/images/projects/oso/oso_arial_photo_cover.jpg'
+featured_image: '/images/projects/oso/Oso_arial_photo_Cover.jpg'
 ---
 
 ### D-Claw modeling of the 2014, Oso, Washington landslide disaster reveals potential mobility bifurcations due to initial material parameters.
@@ -17,7 +17,7 @@ see also:
 
 **Landslide mobility and hazards: implications of the 2014 Oso disaster.** R.M. Iverson, D.L. George, et al., 2015. *Earth Planet. Sci. Lett.*, V. 412, pp. 197--208. [pdf]({{ site.baseurl }}/pubs/IversonGeorgeEtAl2015_EPSL_Oso.pdf)
 
-![](/images/projects/oso/oso_arial_photo.jpg)
+![](/images/projects/oso/Oso_arial_photo.jpg)
 
 ---
 #### Abstract
