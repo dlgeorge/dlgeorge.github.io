@@ -10,14 +10,14 @@ featured_image: '/images/projects/dclaw/misc/Rainier_frame00015.png'
 
 ### Overview
 
-D-Claw is an open-source software package for modeling granular-fluid flows (landslides, debris flows, etc.) within the larger Clawpack open-source project. D-Claw implements a two-phase granular mathematical model developed by Richard Iverson and David George at the U.S. Geological Survey. See [software](/software/) for more information and links to source-code repositories.
+D-Claw is an open-source software package for modeling granular-fluid flows (landslides, debris flows, etc.) within the larger Clawpack open-source project. D-Claw implements a two-phase granular mathematical model developed by Richard Iverson and David George at the U.S. Geological Survey. See [software](/software/) for more information and links to source-code repositories, and [projects](/projects/) for examples of D-Claw applications.
 
 
-### mathematical model
+### Granular-fluid mathematical model
 
 The two-phase granular-fluid model implemented in D-Claw is based on mathematical models originally developed by Richard Iverson and later co-developed with David George, at the USGS. The model, described in detail by [Iverson & George, 2014]({{ site.baseurl }}/pubs/IversonGeorge2014_ProcRSocA.pdf) and [George & Iverson, 2014]({{ site.baseurl }}/pubs/GeorgeIverson2014_ProcRSocA.pdf), combines principles of fluid, solid, and soil mechanics. A unique feature of the model is the coupled evolution of the solid-grain concentration and the basal pore-fluid pressure, based on the principles of granular dilatancy. This co-evolution mediates the coulomb effective stress and hence the mobility of the flow, and hence allows the simulation of slope failure, incipient motion, and deposition without unrealistic force balances. The governing PDEs form a strictly hyperbolic system with non-conservative products, sharing fundamental mathematical stability properties with the more basic shallow water equations. The development of this model was informed by controlled experiments conducted at the USGS debris-flow flume over the last ~ 30 years ([flume video archives](https://pubs.usgs.gov/of/2007/1315/)). The aim of those experiments was to investigate the complex physics of debris flow motion, including initiation processes. Experimental work at the flume is ongoing. For more details see publications below.
 
-### ongoing research and model development
+### Ongoing research and model development
 
 Ongoing D-Claw development is aimed at extending its capabilities to more general surface flow processes by accommodating diverse granular fluid mixtures and interactions between different flow types. Recent examples include landslide-generated tsunamis, seiches leading to erosive dam breaches, and erosive overland flows that transform into debris flows. Extension of D-Claw to post-wildfire debris flows based on these capabilities is an active area of collaboration. Previous D-Claw extensions related to particle-size segregation and levee formation (an important process for debris-flow dynamics) provides an additional topic of continued research. Rainfall infiltration and pore-pressure diffusion modeling are also actively under development. 
 
@@ -39,7 +39,7 @@ See individual [projects](/projects/) for animations and background information 
 
 ---
 
-### related publications
+### References
 
 *  **A depth-averaged debris-flow model that includes the effects of evolving dilatancy: 1. Physical basis.** R. M. Iverson and D. L. George, 2014. *Proc. R. Soc. A*, 470 (2170). [pdf]({{ site.baseurl }}/pubs/IversonGeorge2014_ProcRSocA.pdf)
 * **A depth-averaged debris-flow model that includes the effects of evolving dilatancy: 2. Numerical predictions and experimental tests.** D. L. George and R. M. Iverson, 2014. *Proc. R. Soc. A*, 470 (2170). [pdf]({{ site.baseurl }}/pubs/GeorgeIverson2014_ProcRSocA.pdf) 

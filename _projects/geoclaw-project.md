@@ -11,10 +11,14 @@ featured_image: '/images/projects/geoclaw/tsunamis/Pacific2011.png'
 ---
 ### Overview
 
-GeoClaw is open-source software for simulating shallow earth-surface flows involving water-wave propagation and inundation (*e.g.*, tsunamis, storm surges and general overland flooding problems). 
+GeoClaw is an open-source package within the Clawpack project for simulating shallow earth-surface flows involving water-wave propagation and inundation (*e.g.*, tsunamis, storm surges and general overland flooding problems).
 
-See [software](/software/) for an overview, background information, links to research, or information related to source-code development. 
-See [projects](/projects/) for some example projects involving GeoClaw.
+See [software](/software/) for more information about GeoClaw and the Clawpack project, or [projects](/projects/) for some example applications involving GeoClaw. More information can also be found at [geoclaw.org](http://www.geoclaw.org).
+
+---
+### Background
+
+GeoClaw evolved from a collection of algorithms developed for modeling tsunamis as part of my thesis work (George, 2006). Implemented in the Clawpack adaptive numerical framework, these algorithms provide robust inundation capturing and well-balanced resolution in the presence of dominant steady states (e.g., ocean at rest). Additionally, AMR schemes that preserve well-balancing and inundation capturing in conjunction with mass, momentum and energy conservation enable global-scale tsunami propagation and local-scale inundation in reasonably efficient single simulations ( see also, George, 2008; LeVeque, George, et al., 2011). These methods are more generally applicable to shallow free-surface flows over topography, which motivated the extension of GeoClaw to overland flooding problems in irregular terrain (e.g, George, 2010; Berger, George, et al., 2011). Later extensions of these algorithms were developed for storm-surge applications (e.g., Mandli, 2014). GeoClaw is now used for a variety of applications involving shallow water flows over topography. Features and enhancements continue to be developed within the Clawpack project (e.g., Mandli, Ahmadia, et al., 2016). 
 
 ---
 ### GeoClaw example: modeling transoceanic tsunami propagation and inundation: the 2011 Tohoku Tsunami.

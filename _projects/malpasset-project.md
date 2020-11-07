@@ -90,8 +90,12 @@ The results of the GeoClaw simulations were compared against historical survey d
 #### References
 
 * Alcrudo F (ed.). **Proceedings of the 4th CADAM Meeting.** CADAM: Zaragoza, Spain, 1999.
+* Berger, M.J. and Colella, P., 1989. **Local adaptive mesh refinement for shock hydrodynamics.** *J. Comput. Phys.,* 82: 64-84.
+* Berger, M.J.,  George, D.L.,  LeVeque, R.J. and Mandli, K.T., 2011. **The GeoClaw software for depth-averaged flows with adaptive refinement.**   *Advances in Water Resources*, 34: 1195--1206. doi: 10.1016/j.advwatres.2011.02.016 [pdf]({{ site.baseurl }}/pubs/BergerGeorgeEtAl2011_AWR.pdf)
 * George, D.L., 2008. **Augmented Riemann solvers for the shallow water equations over variable topography with steady states and inundation.**  *J. Comput. Phys.*, 227(6): 3089--3113. [pdf]({{ site.baseurl }}/pubs/George2008_JCP.pdf)
 * George, D.L. 2010. **Adaptive finite volume methods with well-balanced Riemann solvers for modeling floods in rugged terrain: application to the Malpasset dam-break flood (France, 1959).**  *Int. J. Numer. Methods Fluids*, 66(8): 1000--1018. [pdf]({{ site.baseurl }}/pubs/George2010_IJNMF.pdf)
-* Berger, M.J.,  George, D.L.,  LeVeque, R.J. and Mandli, K.T., 2011. **The GeoClaw software for depth-averaged flows with adaptive refinement.**   *Advances in Water Resources*, 34: 1195--1206. doi: 10.1016/j.advwatres.2011.02.016 [pdf]({{ site.baseurl }}/pubs/BergerGeorgeEtAl2011_AWR.pdf)
+* LeVeque, R.J., 2002. **Finite volume methods for hyperbolic problems.**  Texts in Applied Mathematics, Cambridge University Press.
 * Valiani A., Caleffi V., and Zanni A., 2002. **Case study: Malpasset dam-break simulation using a two-dimensional finite volume
   method.**  *Journal of Hydraulic Engineering,* 128(5):460–472.
+
+
