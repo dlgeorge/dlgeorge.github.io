@@ -1,8 +1,8 @@
 ---
-title: 'The 1959 Malpasset, France, Dambreak Flood'
+title: 'The 1959 Malpasset, France, Dam-break disaster'
 subtitle: 'modeling outburst floods with GeoClaw'
 date: 2010-01-01 00:00:00
-description: GeoClaw is extended to dambreak outburst floods over general terrain.
+description: GeoClaw is extended to dam-break outburst floods over general terrain.
 featured_image: '/images/projects/malpasset/malpasset_dam_beforeafter.jpg'
 ---
 
@@ -40,14 +40,14 @@ GeoClaw's algorithms are more generally applicable to free-surface water flows o
 <figure>
 <figcaption> Figure 2. Close-up view of the dam break during the first 200 s of the 3-m simulation. Initially the dam and reservoir are resolved on level-2 grids and coarse level-1 grid cells can be seen in the foreground. After the initial dam break, level-3 and level-4 grids resolve the flood waves as they advance down the winding ravine.</figcaption>
 <div class="gallery" data-columns="4">
-    <img src="/images/projects/geoclaw/malpasset/oblique/frame00000.png">
-    <img src="/images/projects/geoclaw/malpasset/oblique/frame00001.png">
-    <img src="/images/projects/geoclaw/malpasset/oblique/frame00005.png">
-    <img src="/images/projects/geoclaw/malpasset/oblique/frame00010.png">
-    <img src="/images/projects/geoclaw/malpasset/oblique/frame00030.png">
-    <img src="/images/projects/geoclaw/malpasset/oblique/frame00040.png">
-    <img src="/images/projects/geoclaw/malpasset/oblique/frame00050.png">
-    <img src="/images/projects/geoclaw/malpasset/oblique/frame00070.png">
+    <img src="/images/projects/malpasset/oblique/frame00000.png">
+    <img src="/images/projects/malpasset/oblique/frame00001.png">
+    <img src="/images/projects/malpasset/oblique/frame00005.png">
+    <img src="/images/projects/malpasset/oblique/frame00010.png">
+    <img src="/images/projects/malpasset/oblique/frame00030.png">
+    <img src="/images/projects/malpasset/oblique/frame00040.png">
+    <img src="/images/projects/malpasset/oblique/frame00050.png">
+    <img src="/images/projects/malpasset/oblique/frame00070.png">
 </div>
 </figure>
 ---
@@ -55,7 +55,7 @@ GeoClaw's algorithms are more generally applicable to free-surface water flows o
 ---
 <figure>
 <figcaption> Figure 3. Animation of the dam break during the first 200 s of the 3-m simulation.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/geoclaw/malpasset/malpasset_oblique.gif">
+<img src="{{ site.baseurl }}/images/projects/malpasset/malpasset_oblique.gif">
 </figure>
 ---
 

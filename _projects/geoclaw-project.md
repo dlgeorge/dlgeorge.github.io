@@ -1,7 +1,7 @@
 ---
 title: 'GeoClaw'
 subtitle: 'software for simulating shallow-water flows'
-date: 2020-01-02 00:00:00
+date: 2012-01-01 00:00:00
 description: GeoClaw is an open-source numerical software package for water-wave propagation and inundation (tsunamis, storm surges, overland flooding).
 featured_image: '/images/projects/geoclaw/tsunamis/Pacific2011.png'
 ---

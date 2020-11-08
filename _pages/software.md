@@ -5,7 +5,7 @@ description: information and links to open-source software projects
 featured_image: /images/pages/Kaust_confroom_crop1.jpg
 ---
 
-## Software projects and packages
+## Open-source software packages for wave propagation and surface flows.
 
 ---
 ### Clawpack
@@ -19,7 +19,11 @@ Clawpack was established in 1994 by Randall LeVeque (Univ. of Wash.) to implemen
  
 #### source code and repositories
 
-Clawpack source code and repositories are hosted on github at [github.com/clawpack](https://github.com/clawpack). Links to documentation and instructions for developers can also be found at [clawpack.org](http://www.clawpack.org).
+Clawpack source code and repositories are hosted on github: 
+
+* [github.com/clawpack](https://github.com/clawpack). 
+
+Links to documentation and instructions for developers can also be found at [clawpack.org](http://www.clawpack.org).
 
 ---
 ### GeoClaw
@@ -32,7 +36,11 @@ GeoClaw evolved from a collection of algorithms developed for modeling tsunamis 
   
 #### source code and repositories
 
-GeoClaw is a subpackage available with the latest versions (v5) of Clawpack, hosted on github at [github.com/clawpack](https://github.com/clawpack). Information related to GeoClaw development is available at the official Clawpack site ([clawpack.org](http://www.clawpack.org)) and [geoclaw.org](http://www.geoclaw.org). 
+GeoClaw is a subpackage available with the latest versions (v5) of Clawpack, hosted on github:
+
+* [github.com/clawpack](https://github.com/clawpack). 
+
+Information related to GeoClaw development is available at the official Clawpack site ([clawpack.org](http://www.clawpack.org)) and [geoclaw.org](http://www.geoclaw.org). 
 
 ---
 ### D-Claw
