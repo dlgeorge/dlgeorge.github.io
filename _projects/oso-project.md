@@ -27,12 +27,15 @@ Some landslides move slowly or intermittently downslope, but others liquefy duri
 
 ---
 #### D-Claw modeling of landslide dynamics at Oso
+
 D-Claw is used to study the dynamics of a large, high mobility landslide that occurred following a long period of unusually wet weather near Oso, Washington, USA, on 22 March 2014. The landslide (officially named the SR 530 landslide by Washington State) caused 43 fatalities, ranking it second only to a 1985 event in Mameyes, Puerto Rico, as the worst landslide disaster in US history (cf. Jibson, 1992). Results of a multidisciplinary investigation of the landslide’s behaviour are presented elsewhere (Iverson et al., 2015). 
 
 ---
 <figure>
 <figcaption> Figure 1. Overhead view comparing D-Claw results (blue) for baseline parameters compared with observed runout (outlined in yellow: fine line: debris avalance deposit and slump block. thick line: debris-flow runout).</figcaption>
-<img src="{{ site.baseurl }}/images/projects/oso/OsoDClawMapCompare_small.jpg">
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/oso/OsoDClawMapCompare_small.jpg">
+</div>
 </figure>
 ---
 
@@ -42,7 +45,9 @@ D-Claw considers the gravity driven motion of fluid-filled granular mixtures tha
 <figure>
 <figcaption>Figure 2. Overhead view of the simulated behaviour of the Oso landslide using the baseline parameter values for the material parameters used in Iverson et al, 2015, providing the best fit. Landslide area is shown by shading with intensity of the shading inversely
 proportional to the degree of basal liquefaction.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/oso/6panel_0contour.png">
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/oso/6panel_0contour.png">
+</div>
 </figure>
 ---
 
@@ -52,8 +57,10 @@ Estimation of the total volume of the Oso landslide required differencing the 20
 
 ---
 <figure>
-<figcaption>Figure 3. Landslide source geometries were construced with the aid of pre- and post-event lidar. Buried deposits require fitting a failure surface to availabe data, based on logarithmic spirials---a commonly assumed basal profile in lieu of further data. </figcaption>
-<img src="{{ site.baseurl }}/images/projects/oso/OsoDClawLogSpiralSources_small.jpg">
+<figcaption>Figure 3. Landslide source geometries were construced with the aid of pre- and post-event lidar. Buried deposits required fitting a failure surface to availabe data, based on logarithmic spirials---a commonly assumed basal profile in lieu of further data. </figcaption>
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/oso/OsoDClawLogSpiralSources.png">
+</div>
 </figure>
 ---
 
@@ -64,7 +71,9 @@ The evolution of material strength in a landslide that liquefies is contingent o
 ---
 <figure>
 <figcaption>Figure 4. Lidar-based imagery before and after the 2014 landslide is used to compare the smaller 2006 Hazel slide from the source region which did not exhibit the high mobility of the 2014 slide, but rather slumped and remained north of the Stilliguamish River.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/oso/OsoHazelOblique_small.jpg">
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/oso/OsoHazelOblique.png">
+</div>
 </figure>
 ---
 
