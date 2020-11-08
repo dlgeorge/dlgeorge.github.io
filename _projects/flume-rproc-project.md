@@ -50,6 +50,7 @@ To test D-Claw, we present simulations of two types of large-scale experiments c
 <figcaption> Figure 1. The USGS debris-flow flume near Blue River, Oregon, is the largest field-scale facility of its type. Highly controlled and closely monitored experiments inform physical and numerical model development and validation. </figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/flume/Flume3panelHistory.png">
+    <img src="{{ site.baseurl }}/images/projects/flume/GateReleaseFlumeLabel.jpg">
 </div>
 </figure>
 ---
@@ -81,20 +82,21 @@ We first consider model performance in simulating an experiment with loosely pac
 
 ---
 <figure>
-<figcaption> Figure 3. D-Claw results for the loose-soil experiment. Left: cross-sectional perspective at selected times. Basal pore
-pressure is indicated by the fractional depth of blue-shaded sediment, with lithostatic pressure indicated by full blue shading. The position of Lagrangian numerical sensors used to gauge model predictions are shown with markers that move with the sediment. Subsequent to failure the pore-fluid pressure quickly elevates upon contractive behavior leading to liquefaction and rapid acceleration Right: time-series comparison with results from numerical sensors and experimental data recorded by piezometer and extensometer data in the experiments described by Iverson et al., 2000. Top and bottom panels indicate different model material parameter choices within the constrained range. </figcaption>
+<figcaption> Figure 3. Cross-sectional schematic (left) and animation (right) of a D-Claw simulation of the loose-soil experiment. Basal pore pressure is indicated by the fractional depth of blue-shaded sediment, with lithostatic pressure indicated by full blue shading. The position of Lagrangian numerical sensors used to gauge model predictions are shown with markers that move with the sediment. Subsequent to failure the pore-fluid pressure quickly elevates upon contractive behavior leading to liquefaction and rapid acceleration </figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/flume/figure05.png">
+    <img src="{{ site.baseurl }}/images/projects/flume/NR_loose_planview_markers.gif">
+</div>
+</figure>
+
+<figure>
+<figcaption> Figure 4. D-Claw results for the loose-soil experiment. Left: cross-sectional perspective at selected times. Right: time-series comparison with results from numerical sensors and experimental data recorded by piezometer and extensometer data in the experiments described by Iverson et al., 2000. Top and bottom panels indicate different model material parameter choices within the constrained range. </figcaption>
 <div class="gallery" data-columns="2">
     <img src="/images/projects/flume/figure06.png">
     <img src="/images/projects/flume/figure07.png">
 </div>
 </figure>
 
-<figure>
-<figcaption> Figure 4. Cross-sectional animation of a D-Claw simulation of the loose soil experiment. </figcaption>
-<div class="gallery" data-columns="2">
-    <img src="{{ site.baseurl }}/images/projects/flume/NR_loose_planview_markers.gif">
-</div>
-</figure>
 ---
 
 
@@ -119,10 +121,9 @@ In this section, we investigate D-Claw’s ability to predict debris-flow dynami
 
 ---
 <figure>
-<figcaption> Figure 6. Gate-release experiments at the debris-flow flume for investing downslope dynamics and runout. Left: Schematic showing a typical experiment. Right: photographs during the first 1.5 seconds after releasing the headgate doors.</figcaption>
+<figcaption> Figure 6. Gate-release experiments at the debris-flow flume for investing downslope dynamics and runout.  Schematic showing the geometry of the flume and a sediment prism used for the simulations described. </figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/flume/GateReleaseCartoon.png">
-    <img src="{{ site.baseurl }}/images/projects/flume/figure10.jpg">
 </div>
 </figure>
 ---
@@ -140,19 +141,35 @@ We focus on the mean behaviour measured in an aggregated set of eight experiment
 
 ---
 <figure>
-<figcaption> Figure 7. D-Claw animation of a gate-release experiment. Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure.</figcaption>
+<figcaption> Figure 7. D-Claw animation of a gate-release experiment (left). Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure. Right: photographs of a simular gate-release experiment.</figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/flume/GR_oblique_doors.gif">
+    <img src="{{ site.baseurl }}/images/projects/flume/figure10.jpg">
 </div>
 </figure>
 ---
 
-Figure 7 compares the measured flow depth at *x* = 2 m with model results obtained with and without the simulated motion of the headgate. Note that the gate slightly impedes the flow, resulting in a delayed and more abrupt rise in thickness as most of the flow reaches *x* =2 m. Figure 8 shows the computed basal pore-fluid pressure *p*, compared to the lithostatic and hydrostatic pressure for the computed thickness *h*, at 33 m and 66 m downslope. Measurements of the basal pore-fluid pressure in the experiments were not obtained at *x* =2 m.
+Figure 6 compares the measured flow depth at *x* = 2 m with model results obtained with and without the simulated motion of the headgate. Note that the gate slightly impedes the flow, resulting in a delayed and more abrupt rise in thickness as most of the flow reaches *x* =2 m. Figure 8 shows the computed basal pore-fluid pressure *p*, compared to the lithostatic and hydrostatic pressure for the computed thickness *h*, at 33 m and 66 m downslope. Measurements of the basal pore-fluid pressure in the experiments were not obtained at *x* =2 m.
+
+---
+<figure>
+<figcaption> Figure 8. Gate-release experiments showing flow deposition on the runout pad. Left: D-Claw results. Right: deposit map from four different repeated experiments indicating the degree of variability. The absense of particle-size segregation and levee formation in this D-Claw simulations results in more lateral spreading than the experimental deposits which are confined by resistant, coarse-grained levees. (Particle-size segregation has more recently been added to D-Claw's model equations.</figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/flume/figure15.png">
+    <img src="{{ site.baseurl }}/images/projects/flume/figure16.jpg">
+</div>
+</figure>
+---
 
 ---
 #### Conclusions
 
+We have derived a depth-averaged debris-flow model aimed at seamlessly simulating all stages of flow behaviour, from initiation to post-depositional debris consolidation. The model formalizes the hypothesis that the evolving debris dilation rate, coupled to evolution of pore-fluid pressure, plays a primary role in regulating debris-flow dynamics. The model’s representation of this role involves three key postulates. One postulate is that changes in the solid volume fraction m result from the interaction of the depth-averaged shear rate, dilatancy and effective stress. In turn, the evolving dilatancy angle ψ obeys tan ψ = *m − meq*, where the equilibrium solid volume fraction *meq* depends on the ambient stress state and shear rate. The second key postulate, interrelated with the first, is that a Darcy drag formula describes the effect of solid–fluid interactions on the relaxation of *m* towards *meq*. The third postulate is that flow resistance is dominated by basal Coulomb friction, which is affected by dilatancy and by pore-fluid pressure mediated by Darcy drag. The Darcy and Coulomb postulates are consistent with behaviour observed previously in replicable experiments. Therefore, relationships involving dilatancy represent the primary new hypothesis embodied by the model. The fact that dilatancy produces a leading-order effect in the normalized model equations enhances the prospects for conclusive model tests.
 
+The depth-averaged debris-flow model described above constitutes a non-conservative hyperbolic system of partial differential equations with source terms. Additionally, the eigenstructure of the system has a familiar form, with two nonlinear characteristic fields similar to those of the shallow water equations and three contact discontinuities with propagation speeds equal to the flow velocity. The eigenstructure is simpler than that of many two-phase models and it avoids elliptic degeneracy.
+ 
+The novel incorporation of depth-averaged dynamic granular dilatancy allows D-Claw to unify models for slope failure and
+flow initiation with those for debris-flow dynamics. Inclusion of dilatancy also results in novel evolution equations for the solid volume fraction and pore-fluid pressure, which are tightlycoupled through source terms. Because of the inherent sensitivity associated with the transition from a stable debris mass to a dynamic debris flow, it is necessary for the numerical schemes in D-Claw to reliably and stably resolve balanced steady states. For debris flows, the prevalent steady state arises from the counterbalance of longitudinal normal-force gradients, gravitational driving forces and basal shear resistance, the latter of which is strongly dependent on the evolving fluid pressure. Flow initiation occurs when this balance is slightly perturbed. In order to resolve this perturbation and the resulting dynamics accurately, D-Claw requires a specialized Riemann solver and a carefully designed splitting of the source term. Comparisons of D-Claw model output with results from two types of large-scale experiments indicate that the model can successfully simulate key features of debris-flow mobilization as well as debris-flow dynamics, runout and deposition. Model results show that in many cases the effects of persistent high pore pressure strongly suppress the effects of basal Coulomb friction, which is the primary source of flow resistance. This finding is consistent with experimental and field observations indicating that reduction of friction by high pore-fluid pressure is largely responsible for debris flows’ remarkable mobility.
 
 ---
 #### References
