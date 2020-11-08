@@ -48,9 +48,8 @@ To test D-Claw, we present simulations of two types of large-scale experiments c
 ---
 <figure>
 <figcaption> Figure 1. The USGS debris-flow flume near Blue River, Oregon, is the largest field-scale facility of its type. Highly controlled and closely monitored experiments inform physical and numerical model development and validation. </figcaption>
-<div class="gallery" data-columns="2">
-    <img src="{{ site.baseurl }}/images/projects/flume/Flume3panelHistory.png">
-    <img src="{{ site.baseurl }}/images/projects/flume/GateReleaseFlumeLabel.jpg">
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/flume/FlumeHistoryPhotos.png">
 </div>
 </figure>
 ---
