@@ -133,9 +133,8 @@ We focus on the mean behaviour measured in an aggregated set of eight experiment
 ---
 <figure>
 <figcaption> Figure 6. Gate-release experiments at the debris-flow flume for investing downslope dynamics and runout. Left: D-Claw simulation during the first 2 seconds after opening numerical headgate doors. Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure. Right: time-series comparison of the depth 2 m downslope from the doors compared to an aggregated set of eight experiments ( grey shading represents the mean±1 s.d.) described in Iverson et al., 2010.</figcaption>
-<div class="gallery" data-columns="2">
-    <img src="{{ site.baseurl }}/images/projects/flume/figure12.png">
-    <img src="{{ site.baseurl }}/images/projects/flume/figure13.png">
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/flume/GateReleaseCombined.png">
 </div>
 </figure>
 
