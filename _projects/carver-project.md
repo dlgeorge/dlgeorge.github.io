@@ -39,14 +39,15 @@ In the 1980s, concern was raised regarding the flooding risk posed to the Sister
 
 ---
 <figure>
-<figcaption> Figure 1. Overhead image of the summit of South Sister and Carver Lake.</figcaption>
-<div class="gallery" data-columns="1">
+<figcaption> Figure 1. The summit of South Sister Volcano and the moraine-dammed Carver Lake. Left: oblique arial photograph showing the summit of the volcano and Carver Lake. Right: overhead map showing the summit and Carver Lake to the upper right.</figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/carver/CarverProutyPhoto.png">
     <img src="{{ site.baseurl }}/images/projects/carver/CarverLake.png">
 </div>
 </figure>
 
 <figure>
-<figcaption> Figure 2. Maps showing the relative location of Carver Lake (near southwest corner) and Sisters, Oregon.</figcaption>
+<figcaption> Figure 2. Maps showing the relative location of Carver Lake (near southwest corner) and Sisters, Oregon. Left: map showing the extent of the D-Claw simulation domain. Boxes enclose the regions depicted in panels on the right. Top Right: map showing the area around Carver Lake. Bottom Right: map showing the area around Sisters, Oregon. </figcaption>
 <div class="gallery" data-columns="1">
     <img src="{{ site.baseurl }}/images/projects/carver/map_merged.png">
 </div>
@@ -102,7 +103,9 @@ Several kilometers upstream of the community of Sisters, Whychus Creek debouches
 ---
 <figure>
 <figcaption>Figure 7. D-Claw results showing the flood and debris-flow inundation in the alluvial fan surrounding Sisters. Shading indicates the maximum depth observed at any location for the duration of the simulation. </figcaption>
-<img src="{{ site.baseurl }}/images/projects/carver/SistersFan_inundation.png">
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/carver/SistersFan_inundation.png">
+</div>
 </figure>
 ---
 
