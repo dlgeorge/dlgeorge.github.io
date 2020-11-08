@@ -117,7 +117,7 @@ pressure is indicated by the fractional depth of blue-shaded sediment, with lith
 ---
 #### Gate-release experiments: downslope dynamics and runout.
 
-In this section, we investigate D-Claw’s ability to predict debris-flow dynamics, runout and deposition measured in a set of gate-release flume experiments.  In these experiments, loose sediment was placed in a hopper behind a vertical gate near the top of the flume, saturated with water, and released by suddenly opening the gate (Figures 6). Upon releasing the headgate, the saturated mixtures quickly liquefied and developed into debris flows that descended the flume channel before emerging onto a nearly planar runout pad and forming deposits.
+In this section, we investigate D-Claw’s ability to predict debris-flow dynamics, runout and deposition measured in a set of gate-release flume experiments.  In these experiments, loose sediment was placed in a hopper behind a vertical gate near the top of the flume, saturated with water, and released by suddenly opening the gate (Figures 6-8). Upon releasing the headgate, the saturated mixtures quickly liquefied and developed into debris flows that descended the flume channel before emerging onto a nearly planar runout pad and forming deposits.
 
 ---
 <figure>
@@ -132,27 +132,27 @@ We focus on the mean behaviour measured in an aggregated set of eight experiment
 
 ---
 <figure>
-<figcaption> Figure 6. Gate-release experiments at the debris-flow flume for investing downslope dynamics and runout. Left: D-Claw simulation during the first 2 seconds after opening numerical headgate doors. Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure. Right: time-series comparison of the depth 2 m downslope from the doors compared to an aggregated set of eight experiments ( grey shading represents the mean±1 s.d.) described in Iverson et al., 2010.</figcaption>
-<div class="gallery" data-columns="1">
-    <img src="{{ site.baseurl }}/images/projects/flume/GateReleaseCombined.png">
-</div>
-</figure>
-
----
-<figure>
 <figcaption> Figure 7. D-Claw animation of a gate-release experiment (left). Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure. Right: photographs of a simular gate-release experiment.</figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/flume/GR_oblique_doors.gif">
     <img src="{{ site.baseurl }}/images/projects/flume/figure10.jpg">
 </div>
 </figure>
+
+<figure>
+<figcaption> Figure 8. Gate-release experiments at the debris-flow flume for investing downslope dynamics and runout. Left: D-Claw simulation during the first 2 seconds after opening numerical headgate doors. Right: time-series comparison of the depth 2 m downslope from the doors compared to an aggregated set of eight experiments ( grey shading represents the mean±1 s.d.) described in Iverson et al., 2010.</figcaption>
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/flume/GateReleaseCombined.png">
+</div>
+</figure>
+
 ---
 
-Figure 6 compares the measured flow depth at *x* = 2 m with model results obtained with and without the simulated motion of the headgate. Note that the gate slightly impedes the flow, resulting in a delayed and more abrupt rise in thickness as most of the flow reaches *x* =2 m. Figure 8 shows the computed basal pore-fluid pressure *p*, compared to the lithostatic and hydrostatic pressure for the computed thickness *h*, at 33 m and 66 m downslope. Measurements of the basal pore-fluid pressure in the experiments were not obtained at *x* =2 m.
+Figure 8 compares the measured flow depth at *x* = 2 m with model results obtained with and without the simulated motion of the headgate. Note that the gate slightly impedes the flow, resulting in a delayed and more abrupt rise in thickness as most of the flow reaches *x* =2 m. Figure 8 shows the computed basal pore-fluid pressure *p*, compared to the lithostatic and hydrostatic pressure for the computed thickness *h*, at 33 m and 66 m downslope. Measurements of the basal pore-fluid pressure in the experiments were not obtained at *x* =2 m. Figure 9 shows the depositional process on the runout pad.
 
 ---
 <figure>
-<figcaption> Figure 8. Gate-release experiments showing flow deposition on the runout pad. Left: D-Claw results. Right: deposit map from four different repeated experiments indicating the degree of variability. The absense of particle-size segregation and levee formation in this D-Claw simulations results in more lateral spreading than the experimental deposits which are confined by resistant, coarse-grained levees. (Particle-size segregation has more recently been added to D-Claw's model equations.</figcaption>
+<figcaption> Figure 9. Gate-release experiments showing flow deposition on the runout pad. Left: D-Claw results. Right: deposit map from four different repeated experiments indicating the degree of variability. The absense of particle-size segregation and levee formation in this D-Claw simulations results in more lateral spreading than the experimental deposits which are confined by resistant, coarse-grained levees. (Particle-size segregation has more recently been added to D-Claw's model equations.</figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/flume/figure15.png">
     <img src="{{ site.baseurl }}/images/projects/flume/figure16.jpg">
