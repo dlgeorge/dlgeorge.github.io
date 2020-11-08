@@ -46,7 +46,7 @@ D-Claw considers the gravity driven motion of fluid-filled granular mixtures tha
 <figcaption>Figure 2. Overhead view of the simulated behaviour of the Oso landslide using the baseline parameter values for the material parameters used in Iverson et al, 2015, providing the best fit. Landslide area is shown by shading with intensity of the shading inversely
 proportional to the degree of basal liquefaction.</figcaption>
 <div class="gallery" data-columns="1">
-    <img src="{{ site.baseurl }}/images/projects/oso/6panel_0contour.png">
+    <img src="{{ site.baseurl }}/images/projects/oso/DClaw6panel_Geotechnique.png">
 </div>
 </figure>
 ---
@@ -81,8 +81,10 @@ Models that aim to explain the behaviour of landslides that liquefy must also be
 
 ---
 <figure>
-<figcaption>Figure 5. D-Claw model results showing dramatically different mobilities based on the relative values of the initial and critical porosities.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/oso/OsoDclawMapBifurcation.jpg">
+<figcaption>Figure 5. D-Claw model results showing different mobilities based on the relative values of the critical (0.64) and initial (m0) porosities. Decreasing inital porosities lead to enhanced mobility due to dilatancy effects and liquefaction.</figcaption>
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/oso/DClawMobilities_6panel.png ">
+</div>
 </figure>
 ---
 
