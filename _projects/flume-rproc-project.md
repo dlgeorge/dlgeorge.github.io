@@ -16,7 +16,7 @@ This page features material and excerpts from the companion papers:
 * **A depth-averaged debris-flow model that includes the effects of evolving dilatancy: 2. Numerical predictions and experimental tests.** D. L. George and R.M. Iverson, 2014. *Proc. R. Soc. A*, 470 (2170). [pdf]({{ site.baseurl }}/pubs/GeorgeIverson2014_ProcRSocA.pdf)
 
 
-![](/images/projects/flume/GR_oblique_doors_compare2panel.png)
+![](/images/projects/flume/GR_oblique_doors.gif)
 
 ---
 ### Abstract
@@ -48,7 +48,9 @@ To test D-Claw, we present simulations of two types of large-scale experiments c
 ---
 <figure>
 <figcaption> Figure 1. The USGS debris-flow flume near Blue River, Oregon, is the largest field-scale facility of its type. Highly controlled and closely monitored experiments inform physical and numerical model development and validation. </figcaption>
-<img src="{{ site.baseurl }}/images/projects/flume/Flume3panelHistory.png">
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/flume/Flume3panelHistory.png">
+</div>
 </figure>
 ---
 
@@ -89,7 +91,9 @@ pressure is indicated by the fractional depth of blue-shaded sediment, with lith
 
 <figure>
 <figcaption> Figure 4. Cross-sectional animation of a D-Claw simulation of the loose soil experiment. </figcaption>
-<img src="{{ site.baseurl }}/images/projects/flume/NR_loose_planview_markers.gif">
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/flume/NR_loose_planview_markers.gif">
+</div>
 </figure>
 ---
 
@@ -100,35 +104,25 @@ Next we consider model performance in simulating an experiment with densely pack
 
 ---
 <figure>
-<figcaption> Figure 4. D-Claw results for the dense-soil experiment. Left: cross-sectional perspective at selected times. Basal pore
+<figcaption> Figure 5. D-Claw results for the dense-soil experiment. Left: cross-sectional perspective at selected times. Basal pore
 pressure is indicated by the fractional depth of blue-shaded sediment, with lithostatic pressure indicated by full blue shading. The material fails at t=0 (middle panel) but remains visually in place for the duration of the simulation at t=60 s (right panel).  Right: time-series results from Lagrangian numerical sensors for the simulated position and basal pore pressure of a material.  Dilative behavior causes a slow episodic creep and pressure reduction with each slip cycle.</figcaption>
 <div class="gallery" data-columns="2">
     <img src="/images/projects/flume/NR_dense_planview.png">
     <img src="/images/projects/flume/NR_dense_displacement_pressure.png">
 </div>
 </figure>
----
-
 
 ---
 #### Gate-release experiments: downslope dynamics and runout.
 
-In this section, we investigate D-Claw’s ability to predict debris-flow dynamics, runout and deposition measured in a set of gate-release flume experiments.  In these experiments, loose sediment was placed in a hopper behind a vertical gate near the top of the flume, saturated with water, and released by suddenly opening the gate (Figures 5-7). Upon releasing the headgate, the saturated mixtures quickly liquefied and developed into debris flows that descended the flume channel before emerging onto a nearly planar runout pad and forming deposits.
+In this section, we investigate D-Claw’s ability to predict debris-flow dynamics, runout and deposition measured in a set of gate-release flume experiments.  In these experiments, loose sediment was placed in a hopper behind a vertical gate near the top of the flume, saturated with water, and released by suddenly opening the gate (Figures 6). Upon releasing the headgate, the saturated mixtures quickly liquefied and developed into debris flows that descended the flume channel before emerging onto a nearly planar runout pad and forming deposits.
 
 ---
 <figure>
-<figcaption> Figure 5. Schematic of gate-release experiments at the debris-flow flume.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/flume/GateReleaseCartoon.png">
-</figure>
----
-
----
-<figure>
-<figcaption> Figure 6. Photographs of the headgate doors opening for a gate-release experiment.</figcaption>
-<div class="gallery" data-columns="3">
-    <img src="/images/projects/flume/GateDoors1.jpg">
-    <img src="/images/projects/flume/GateDoors2.jpg">
-    <img src="/images/projects/flume/GateDoors3.jpg">
+<figcaption> Figure 6. Gate-release experiments at the debris-flow flume for investing downslope dynamics and runout. Left: Schematic showing a typical experiment. Right: photographs during the first 1.5 seconds after releasing the headgate doors.</figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/flume/GateReleaseCartoon.png">
+    <img src="{{ site.baseurl }}/images/projects/flume/figure10.jpg">
 </div>
 </figure>
 ---
@@ -137,12 +131,23 @@ We focus on the mean behaviour measured in an aggregated set of eight experiment
 
 ---
 <figure>
-<figcaption> Figure 7. D-Claw simulation of a gate-release experiment. Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/flume/GR_oblique_doors.gif">
+<figcaption> Figure 6. Gate-release experiments at the debris-flow flume for investing downslope dynamics and runout. Left: D-Claw simulation during the first 2 seconds after opening numerical headgate doors. Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure. Right: time-series comparison of the depth 2 m downslope from the doors compared to an aggregated set of eight experiments ( grey shading represents the mean±1 s.d.) described in Iverson et al., 2010.</figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/flume/figure12.png">
+    <img src="{{ site.baseurl }}/images/projects/flume/figure13.png">
+</div>
+</figure>
+
+---
+<figure>
+<figcaption> Figure 7. D-Claw animation of a gate-release experiment. Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure.</figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/flume/GR_oblique_doors.gif">
+</div>
 </figure>
 ---
 
-Aggregated time-series data reported by Iverson et al., 2010,  provide a basis for straightforward comparison with our D-Claw simulation. In Figure 8, grey shading represents the mean±1 s.d. measured in eight experiments. Figure 13a compares the measured flow depth at *x* = 2 m with model results obtained with and without the simulated motion of the headgate. Note that the gate slightly impedes the flow, resulting in a delayed and more abrupt rise in thickness as most of the flow reaches *x* =2 m. Figure 13b shows the computed basal pore-fluid pressure *p*, compared to the lithostatic and hydrostatic pressure for the computed thickness *h*, illustrating the high degree of liquefaction at early times. Measurements of the basal pore-fluid pressure in the experiments were not obtained at *x* =2 m.
+Figure 7 compares the measured flow depth at *x* = 2 m with model results obtained with and without the simulated motion of the headgate. Note that the gate slightly impedes the flow, resulting in a delayed and more abrupt rise in thickness as most of the flow reaches *x* =2 m. Figure 8 shows the computed basal pore-fluid pressure *p*, compared to the lithostatic and hydrostatic pressure for the computed thickness *h*, at 33 m and 66 m downslope. Measurements of the basal pore-fluid pressure in the experiments were not obtained at *x* =2 m.
 
 ---
 #### Conclusions
