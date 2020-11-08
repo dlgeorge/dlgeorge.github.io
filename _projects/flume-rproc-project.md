@@ -69,7 +69,9 @@ In this section, we investigate D-Claw’s ability to predict debris-flow mobili
 </figure>
 ---
 
-We consider repeated experiments in which only the initial sediment porosity is intentionally varied. In some experiments, the sediment was loosely placed resulting in initial solid volume fractions *m* < 0.5. In other cases, the sediment was densified through vibrational compaction of multiple layers resulting in initial solid volume fractions *m* > 0.6. Ancillary testing revealed that the critical-state solid volume fraction for this sediment at appropriately low confining stresses was about 0.56. We classify the initial states *m*< 0.56 as ‘loose’, while those in experiments with *m*>0.56 were classified as ‘dense’. During slope failure, loosely packed sediment quickly liquefied and transformed into rapid debris flows. This behaviour resulted from sediment contraction upon shearing, evidenced by a dramatic, contemporaneous increase in porefluid pressure. With densely packed sediment, on the other hand, slope failures exhibited self-stabilizing behaviour, because pore-fluid pressures decreased as the deforming sediment dilated. In such cases, landslides crept slowly and sometimes intermittently downslope. These contrasting styles of behaviour test not only D-Claw’s ability to seamlessly simulate the transition of a stable mass into a moving mass, but also the model’s ability to regulate evolution of pore-fluid pressure and thereby influence the degree and nature of landslide mobilization.
+We consider repeated experiments in which only the initial sediment porosity is intentionally varied. In some experiments, the sediment was loosely placed resulting in initial solid volume fractions *m* < 0.5. In other cases, the sediment was densified through vibrational compaction of multiple layers resulting in initial solid volume fractions *m* > 0.6. Ancillary testing revealed that the critical-state solid volume fraction for this sediment at appropriately low confining stresses was about 0.56. We classify the initial states *m*< 0.56 as ‘loose’, while those in experiments with *m*>0.56 were classified as ‘dense’. 
+
+During slope failure, loosely packed sediment quickly liquefied and transformed into rapid debris flows. This behaviour resulted from sediment contraction upon shearing, evidenced by a dramatic, contemporaneous increase in porefluid pressure. With densely packed sediment, on the other hand, slope failures exhibited self-stabilizing behaviour, because pore-fluid pressures decreased as the deforming sediment dilated. In such cases, landslides crept slowly and sometimes intermittently downslope. These contrasting styles of behaviour test not only D-Claw’s ability to seamlessly simulate the transition of a stable mass into a moving mass, but also the model’s ability to regulate evolution of pore-fluid pressure and thereby influence the degree and nature of landslide mobilization.
 
 ##### loose sediment experiment: dilatancy feedbacks lead to liquefaction and runaway acceleration.
 
@@ -108,16 +110,18 @@ piezometer for the dense soil experiment. Dilative behavior causes a slow episod
 ---
 #### gate-release experiments
 
+In this section, we investigate D-Claw’s ability to predict debris-flow dynamics, runout and deposition measured in a set of gate-release flume experiments.  In these experiments, loose sediment was placed in a hopper behind a vertical gate near the top of the flume, saturated with water, and released by suddenly opening the gate (Figures 5-7). Upon releasing the headgate, the saturated mixtures quickly liquefied and developed into debris flows that descended the flume channel before emerging onto a nearly planar runout pad and forming deposits.
+
 ---
 <figure>
-<figcaption> Figure 5. .</figcaption>
+<figcaption> Figure 5. Schematic of gate-release experiments at the debris-flow flume.</figcaption>
 <img src="{{ site.baseurl }}/images/projects/flume/GateReleaseCartoon.png">
 </figure>
 ---
 
 ---
 <figure>
-<figcaption> Figure 6. .</figcaption>
+<figcaption> Figure 6. Photographs of the headgate doors opening for a gate-release experiment.</figcaption>
 <div class="gallery" data-columns="3">
     <img src="/images/projects/flume/GateDoors1.jpg">
     <img src="/images/projects/flume/GateDoors2.jpg">
@@ -128,7 +132,7 @@ piezometer for the dense soil experiment. Dilative behavior causes a slow episod
 
 ---
 <figure>
-<figcaption> Figure 7. .</figcaption>
+<figcaption> Figure 7. D-Claw simulation of a gate-release experiment. Color shading indicates the degree of liquefaction, with blue indicating lithostatic pressure.</figcaption>
 <img src="{{ site.baseurl }}/images/projects/flume/GR_oblique_doors.gif">
 </figure>
 ---
