@@ -14,10 +14,11 @@ This page features excerpts and material from:
 **Seamless numerical simulation of a hazard cascade in which a landslide triggers a dam-breach flood and consequent debris flow,** D.L. George, R.M. Iverson, and C.M. Cannon, 2020. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.* [pdf]({{ site.baseurl }}/pubs/GeorgeIversonCannon_7thDFHM.pdf)
 
 <figure>
-<div class="gallery" data-columns="1">
+<div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/carver/mv622k9sl.gif">
+    <img src="{{ site.baseurl }}/images/projects/carver/damview_sv_mc622_k-9.gif">
 </div>
-<figcaption> D-Claw animation, see Figure 5 for details.</figcaption>
+<figcaption> D-Claw animations described further below.</figcaption>
 </figure>
 
 ---
@@ -63,7 +64,7 @@ Simulations were performed on a large domain (approximately 50 km by 50 km), whi
 
 ---
 <figure>
-<figcaption> Figure 3. West-looking oblique perspective of the failure and evolution of the simulated landslide mass which inundates Carver Lake and generates waves that overtop the moraine dam. The wave action at the dam begins to erode channel material. Shading indicates the solid volume fraction, m, which varies from 0 (pure water) to ~ 0.6 (dense granular-fluid mixture). Modeling set-up and animation provided below</figcaption>
+<figcaption> Figure 3. West-looking oblique perspective of the failure and evolution of the simulated landslide mass which inundates Carver Lake and generates waves that overtop the moraine dam. The wave action at the dam begins to erode channel material. Shading indicates the solid volume fraction, m, which varies from 0 (pure water) to ~ 0.6 (dense granular-fluid mixture). </figcaption>
 <div class="gallery" data-columns="1">
     <img src="{{ site.baseurl }}/images/projects/carver/LandslideMerged.png">
 </div>
@@ -79,35 +80,32 @@ Simulations were performed on a large domain (approximately 50 km by 50 km), whi
 
 
 ---
-### Animations
-
----
-<figure>
-<figcaption> Figure 5. West-looking oblique perspective of the failure and evolution of the simulated landslide mass which inundates Carver Lake and generates waves that overtop the moraine dam. The wave action at the dam begins to erode channel material. Shading indicates the solid volume fraction, m, which varies from 0 (pure water) to ~ 0.6 (dense granular-fluid mixture).</figcaption>
-<img src="{{ site.baseurl }}/images/projects/carver/mv622k9sl.gif">
-</figure>
----
-
----
-<figure>
-<figcaption>Figure 6. North-looking oblique perspective of wave generation, overtopping and erosion of the moraine dam that leads to a downstream debris flow. </figcaption>
-<img src="{{ site.baseurl }}/images/projects/carver/damview_sv_mc622_k-9.gif">
-</figure>
----
-
----
 ### Downstream results 
 
 Several kilometers upstream of the community of Sisters, Whychus Creek debouches onto an alluvial fan with low relief and a system of (now dry) distributary channels. When the modeled flow reached this point after approximately 1 hour, it immediately overtopped the low banks of the main branch of Whychus Creek, spreading into the distributory channels. The flow continued to spread widely across the alluvial fan, eventually inundating Sisters. However, due to the spreading, the depth of the flow in the main channel was reduced significantly, presumably lessening the flood risk posed to the more densely populated area of Sisters adjacent to the main channel. The results contrasted with early 1-D simulations performed in the 1980's, which assumed that most of the flow was confined to the channel.
 
 ---
 <figure>
-<figcaption>Figure 7. D-Claw results showing the flood and debris-flow inundation in the alluvial fan surrounding Sisters. Shading indicates the maximum depth observed at any location for the duration of the simulation. </figcaption>
+<figcaption>Figure 6. Overhead view of the simulation domain. Left: the simulation at t=0. South Sister Volcano and Carver Lake are in the lower left. Right: the AMR grids that resolve flood waves from Carver Lake to Sisters, Oregon. </figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/carver/frame00000.png">
+    <img src="{{ site.baseurl }}/images/projects/carver/frame00280.png">
+</div>
+</figure>
+
+<figure>
+<figcaption>Figure 6. D-Claw animation zoomed-in on the the alluvial fan surrounding Sisters, Oregon. </figcaption>
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/carver/movie_all.gif">
+</div>
+</figure>
+
+<figure>
+<figcaption>Figure 7. D-Claw results showing the final maximum inundation on the alluvial fan surrounding Sisters.  Shading indicates the maximum depth observed at any location for the duration of the simulation. </figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/carver/SistersFan_inundation.png">
 </div>
 </figure>
----
 
 ---
 ### Conclusions
