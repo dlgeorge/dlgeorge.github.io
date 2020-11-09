@@ -94,15 +94,9 @@ Several kilometers upstream of the community of Sisters, Whychus Creek debouches
 </figure>
 
 <figure>
-<figcaption>Figure 6. D-Claw animation zoomed-in on the the alluvial fan surrounding Sisters, Oregon. </figcaption>
-<div class="gallery" data-columns="1">
-    <img src="{{ site.baseurl }}/images/projects/carver/movie_all.gif">
-</div>
-</figure>
-
-<figure>
-<figcaption>Figure 7. D-Claw results showing the final maximum inundation on the alluvial fan surrounding Sisters.  Shading indicates the maximum depth observed at any location for the duration of the simulation. </figcaption>
+<figcaption>Figure 7. Downstream results on the alluvial fan surrounding Sisters, Oregon. Left: D-Claw animation. Right: Inundation map -- shading indicates the maximum depth observed at any location for the duration of the simulation. </figcaption>
 <div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/carver/sisters_fan_amr_blue_opt1.gif">
     <img src="{{ site.baseurl }}/images/projects/carver/SistersFan_inundation.png">
 </div>
 </figure>
