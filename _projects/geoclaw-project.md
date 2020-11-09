@@ -6,8 +6,11 @@ description: GeoClaw is an open-source numerical software package for water-wave
 featured_image: '/images/projects/geoclaw/tsunamis/Pacific2011.png'
 ---
 
-![](/images/projects/geoclaw/tsunamis/Pacific2011_HI.png)
-
+<figure>
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/geoclaw/tsunamis/honshu2hilo.gif">
+</div>
+</figure>
 ---
 ### Overview
 
@@ -23,7 +26,7 @@ GeoClaw evolved from a collection of algorithms developed for modeling tsunamis 
 ---
 ### GeoClaw example: modeling transoceanic tsunami propagation and inundation: the 2011 Tohoku Tsunami.
 
-A GeoClaw simulation of the 2011 Tohoku Tsunami, with inundation modeling of Hilo, HI. A coarse level-1 grid is used for the steady-state ocean at rest, refined to level-2 grids for deep-ocean wave propagation. Level-3 grids resolve the compressed waves as they approach the coastal waters of the Hawaiin Islands, with meter-scale level-4 grids resolving the harbor and inundation of Hilo, HI (the actual inundation was limited to small onshore waves). See ([LeVeque, George, et al., 2011]({{ site.baseurl }}/pubs/LeVequeGeorgeEtAl2011_ActaNumerica.pdf)) for more information.
+A GeoClaw simulation of the 2011 Tohoku Tsunami, with inundation modeling of Hilo, HI. A coarse level-1 grid is used for the steady-state ocean at rest, refined to level-2 grids for deep-ocean wave propagation. Level-3 grids resolve the compressed waves as they approach the coastal waters of the Hawaiin Islands, with meter-scale level-4 grids resolving the harbor and inundation of Hilo, HI (the actual inundation was limited to small onshore waves). For a detailed description of GeoClaw algorithms related to AMR and other algorithms for tsunamis modeling, see (George, 2006; Berger, George et al., 2011; & LeVeque, George, et al., 2011).
 
 <figure>
 <div class="gallery" data-columns="3">
@@ -41,12 +44,6 @@ A GeoClaw simulation of the 2011 Tohoku Tsunami, with inundation modeling of Hil
 	<img src="/images/projects/geoclaw/tsunamis/frame00075.png">
 </div>
 </figure>
-
-<figure>
-<img src="{{ site.baseurl }}/images/projects/geoclaw/tsunamis/honshu2hilo.gif">
-</figure>
-
-
 
 ### References
 
