@@ -83,7 +83,7 @@ Models that aim to explain the behaviour of landslides that liquefy must also be
 <figure>
 <figcaption>Figure 5. D-Claw model results showing different mobilities based on the relative values of the critical (0.64) and initial (m0) porosities. Decreasing inital porosities lead to enhanced mobility due to dilatancy effects and liquefaction.</figcaption>
 <div class="gallery" data-columns="1">
-    <img src="{{ site.baseurl }}/images/projects/oso/DClawMobilities_6panel.png ">
+    <img src="{{ site.baseurl }}/images/projects/oso/DClawMobilities_6panel.png">
 </div>
 </figure>
 ---
