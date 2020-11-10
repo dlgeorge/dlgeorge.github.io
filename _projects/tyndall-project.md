@@ -14,10 +14,10 @@ This page features excerpts and figures from:
 New methodology for computing tsunami generation by subaerial landslides: application to the 2015 Tyndall Glacier Landslide, Alaska. D. L. George, R.M. Iverson and C.M. Cannon, 2017. *Geophys. Res. Lett.*, V. 44(14), 7276--7284. [pdf]({{ site.baseurl }}/pubs/GeorgeIversonEtAl2017_GRL_Tyndall.pdf).
 
 <figure>
-<figcaption>D-Claw simulation of the landslide and tsunami. Left: zoomed-in perspective. Right: tsunami in Taan Fjord.</figcaption>
+<figcaption>D-Claw simulation of the landslide and tsunami. Left: zoomed-in perspective of the landslide source near the terminus of Tyndall Glacier and the head of Taan Fjord. Right: tsunami in Taan Fjord propagating from Tyndall Glacier to Icy Bay, Alaska.</figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/tyndall/Tyndall_oblique_grl_0.5res.gif">
-    <img src="{{ site.baseurl }}/images/projects/tyndall/Tyndall_overhead_grl.gif">
+    <img src="{{ site.baseurl }}/images/projects/tyndall/Tyndall_overhead_grl_crp_0.4res.gif">
 </div>
 </figure>
 
@@ -61,7 +61,7 @@ We outlined the 2015 landslide source area extent by interpreting satellite topo
 <figcaption>Figure 2. (a) Map view and (b) vertical cross-section profile of the landslide source area near the terminus of the Tyndall
 Glacier. Three longitudinal transects crossing the landslide source identify the location of fitted logarithmic spirals used
 to estimate the shape of the continuous failure surface. The vertical cross section (Figure 2b) is along the dark transect
-shown in Figure 2a.
+shown in Figure 2a. (c) Oblique view of the landslide source material and the head of Taan Fjord.
 </figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/tyndall/LandslideSource.png">
@@ -103,8 +103,6 @@ A key advantage of this approach is that it does not require specification of co
     <img src="/images/projects/tyndall/OverheadDClaw500s.png">
 </div>
 </figure>
----
-
 
 ---
 #### Comparison of modeling approaches and data
@@ -115,7 +113,9 @@ We utilized satellite imagery to compare observed tsunami inundation limits with
 <figure>
 <figcaption>Figure 5. NDVI images indicating the decreased vegetation caused by tsunami inundation near the shoreline of the
 Taan Fjord. The extent of the inundation predicted by D-Claw is outlined in black.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/tyndall/NDVI_2panel.png">
+<div class="gallery" data-columns="2">
+   <img src="{{ site.baseurl }}/images/projects/tyndall/NDVI_2panel.png">
+</div>
 </figure>
 ---
 
@@ -128,7 +128,9 @@ heights relative to the undisturbed water elevation (−1.07 msl). Results of th
 compared to those of the precomputed variable bottom simulation (dotted blue). Locations of the time series are
 indicated on the map as triangles near labels G1–G5. All locations are downstream of the reach of significant
 solid material. </figcaption>
-<img src="{{ site.baseurl }}/images/projects/tyndall/TsunamiGauges.png">
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/tyndall/TsunamiGauges.png">
+</div>
 </figure>
 ---
 
