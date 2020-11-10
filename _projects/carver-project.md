@@ -15,8 +15,8 @@ This page features excerpts and material from:
 
 <figure>
 <div class="gallery" data-columns="2">
-    <img src="{{ site.baseurl }}/images/projects/carver/mv622k9sl.gif">
-    <img src="{{ site.baseurl }}/images/projects/carver/damview_sv_mc622_k-9.gif">
+    <img src="{{ site.baseurl }}/images/projects/carver/slideview_sv_mc622_k-9_opt_rcolors_0.5res.gif">
+    <img src="{{ site.baseurl }}/images/projects/carver/damview_sv_mc622_k-9_opt_0.5res_rcolors.gif">
 </div>
 <figcaption> D-Claw animations described further below.</figcaption>
 </figure>

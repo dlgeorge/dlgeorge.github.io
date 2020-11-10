@@ -7,6 +7,7 @@ featured_image: '/images/projects/geoclaw/tsunamis/Pacific2011.png'
 ---
 
 <figure>
+<figcaption> GeoClaw simulation of the 2011 Tohoku Tsunami with local inundation modeling in Hilo, HI.</figcaption>
 <div class="gallery" data-columns="1">
     <img src="{{ site.baseurl }}/images/projects/geoclaw/tsunamis/honshu2hilo.gif">
 </div>
