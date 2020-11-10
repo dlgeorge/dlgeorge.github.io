@@ -6,7 +6,7 @@ description: GeoClaw is extended to dam-break outburst floods over general terra
 featured_image: '/images/projects/malpasset/malpasset_dam_beforeafter.jpg'
 ---
 
-### Extending GeoClaw's tsunami modeling algorithms to overland floods (2010).  Case study: the 1959 Malpasset dambreak disaster. 
+### Extending GeoClaw's tsunami modeling algorithms to overland floods (2010).  Case study: the 1959 Malpasset dam-break disaster. 
 
 This page features material and excerpts from: 
 
