@@ -13,22 +13,29 @@ This page features excerpts and figures from:
 
 New methodology for computing tsunami generation by subaerial landslides: application to the 2015 Tyndall Glacier Landslide, Alaska. D. L. George, R.M. Iverson and C.M. Cannon, 2017. *Geophys. Res. Lett.*, V. 44(14), 7276--7284. [pdf]({{ site.baseurl }}/pubs/GeorgeIversonEtAl2017_GRL_Tyndall.pdf).
 
-![](/images/projects/tyndall/ObliqueDClaw30s.png)
+<figure>
+<figcaption>D-Claw simulation of the landslide and tsunami. Left: zoomed-in perspective. Right: tsunami in Taan Fjord.</figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/tyndall/Tyndall_oblique_grl_0.5res.gif">
+    <img src="{{ site.baseurl }}/images/projects/tyndall/Tyndall_overhead_grl.gif">
+</div>
+</figure>
+
 
 ---
-#### Abstract
+### Abstract
 
 <small>Landslide-generated tsunamis pose significant hazards and involve complex, multiphase physics that are challenging to model. We present a new methodology in which our depth-averaged two-phase model D-Claw is used to seamlessly simulate all stages of landslide dynamics as well as tsunami generation, propagation, and inundation. Because the model describes the evolution of solid and fluid volume fractions, it treats both landslides and tsunamis as special cases of a more general class of phenomena. Therefore, the landslide and tsunami can be efficiently simulated as a single-layer continuum with evolving solid-grain concentrations, and with wave generation via direct longitudinal momentum transfer—a dominant physical mechanism that has not been previously addressed in this manner. To test our methodology, we used D-Claw to model a large subaerial landslide and resulting tsunami that occurred on 17 October 2015, in Taan Fjord near the terminus of Tyndall Glacier, Alaska. Modeled shoreline inundation patterns compare well with those observed in satellite imagery.</small>
 
 ---
-#### Introduction
+### Introduction
 
 Coseismic tsunamis such as the 2004 Indian Ocean and 2011 Tohoku tsunamis have widespread impacts, but subaerial landslides that enter water bodies can produce equally destructive waves, albeit at more localized scales. Examples include the 1958 Lituya Bay, Alaska, rockslide (≈ 30 million cubic meters) and tsunami, which resulted in the highest known inundation in historical times (≈ 525 m) [Miller, 1960; Fritz et al., 2001], and more recently, the 2015 Tyndall Glacier, Alaska, landslide (70–80 million cubic meters) [Stark, 2015] and resulting Taan Fjord tsunami. Efficient, accurate, robust models are needed to understand the physics of landslide-generated tsunamis and to assess the associated hazards.
 
 Landslide-generated tsunamis present unique modeling challenges because of the need to compute landslide dynamics as well as wave-generation and wave-propagation dynamics. Here we propose using single-layer, multiphase, depth-averaged model to seamlessly simulate all stages of subaerial landsliding and consequent tsunami generation and propagation. In this model momentum conservation and exchange occurs naturally as the landslide material interacts with the water body and generates impulse waves. We test our approach by comparing model predictions with tsunami inundation limits observed in satellite imagery, and we also compare our predictions with results obtained using a more traditional methodology.
 
 ---
-#### The 2015 Tyndall Glacier landslide and tsunami, Taan Fjord, Alaska.
+### The 2015 Tyndall Glacier landslide and tsunami, Taan Fjord, Alaska.
 
 At about 8:19 P.M. (local time) on 17 October 2015, after a period of heavy rain, a large landslide occurred near the toe of Tyndall Glacier, which originates on the flanks of Mount St. Elias and terminates at the head of Taan Fjord and Icy Bay, Alaska (Figure 1). Runout of the 2015 landslide generated a tsunami in Taan Fjord that reached vertically 150 m up a hillside on the opposite side of the fjord (Rozell, 2016). Landslide mass estimates from the long-period seismicity radiated by the landslide were about 180 billion kg, which implies a volume of about 70–80 million cubic meters (Stark, 2015). 
 
@@ -38,8 +45,9 @@ At about 8:19 P.M. (local time) on 17 October 2015, after a period of heavy rain
 taken following the landslide (courtesy of Christopher Larsen, University of Alaska, Fairbanks) provides an oblique view
 of the Tyndall Glacier terminus and adjacent landslide source area.
 </figcaption>
-
-<img src="{{ site.baseurl }}/images/projects/tyndall/IcyBay_small.png">
+<div class="gallery" data-columns="1">
+    <img src="{{ site.baseurl }}/images/projects/tyndall/IcyBay.png">
+</div>
 </figure>
 ---
 
@@ -55,8 +63,12 @@ Glacier. Three longitudinal transects crossing the landslide source identify the
 to estimate the shape of the continuous failure surface. The vertical cross section (Figure 2b) is along the dark transect
 shown in Figure 2a.
 </figcaption>
-<img src="{{ site.baseurl }}/images/projects/tyndall/LandslideSource_small.png">
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/tyndall/LandslideSource.png">
+    <img src="{{ site.baseurl }}/images/projects/tyndall/Oblique_Scales_t0.png">"
+</div>
 </figure>
+
 ---
 With our hypothetical landslide source models we simulated landslides, tsunami generation, wave propagation, and inundation along Taan Fjord with several methodologies including D-Claw. To model tsunamis generated by subaerial landslides, we initialize D-Claw by  representing the landslide source material as a statically balanced, homogeneous grain-water mixture, and by representing the water body as a static pure fluid.  Impulse waves are generated naturally as the denser landslide mixture impacts the water body and exchanges mass and momentum with it. 
 
@@ -93,21 +105,6 @@ A key advantage of this approach is that it does not require specification of co
 </figure>
 ---
 
----
-#### Animations
-
-<figure>
-<figcaption>Figure 5. The simulated landslide initiation and generation of impulse waves. The color scale indicates the evolving
-solid-volume fraction.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/tyndall/Tyndall_oblique_grl.gif">
-</figure>
-
-
-
-<figure>
-<figcaption>Figure 6. The simulated landslide initiation and generation of impulse waves. The color scale indicates the evolving surface elevation.</figcaption>
-<img src="{{ site.baseurl }}/images/projects/tyndall/Tyndall_overhead_grl.gif">
-</figure>
 
 ---
 #### Comparison of modeling approaches and data
@@ -116,7 +113,7 @@ We utilized satellite imagery to compare observed tsunami inundation limits with
 
 ---
 <figure>
-<figcaption>Figure 7. NDVI images indicating the decreased vegetation caused by tsunami inundation near the shoreline of the
+<figcaption>Figure 5. NDVI images indicating the decreased vegetation caused by tsunami inundation near the shoreline of the
 Taan Fjord. The extent of the inundation predicted by D-Claw is outlined in black.</figcaption>
 <img src="{{ site.baseurl }}/images/projects/tyndall/NDVI_2panel.png">
 </figure>
@@ -126,7 +123,7 @@ To help evaluate the results obtained using our new methodology, we also perform
 
 ---
 <figure>
-<figcaption>Figure 8. Time series of the simulated tsunami at five chosen locations in Taan Fjord and Icy Bay, showing the wave
+<figcaption>Figure 6. Time series of the simulated tsunami at five chosen locations in Taan Fjord and Icy Bay, showing the wave
 heights relative to the undisturbed water elevation (−1.07 msl). Results of the seamless D-Claw simulation (red) are
 compared to those of the precomputed variable bottom simulation (dotted blue). Locations of the time series are
 indicated on the map as triangles near labels G1–G5. All locations are downstream of the reach of significant
@@ -135,7 +132,7 @@ solid material. </figcaption>
 </figure>
 ---
 
-Figure 8 compares results generated by using our new methodology and the more conventional and more labor-intensive boundary-displacement methodology to compute time series of water waves at five locations in Taan Fjord and Icy Bay. Given the dramatically different assumptions about wave generation processes in these alternative approaches, broadly similar tsunami waves are predicted at points distant from the landslide. The seamless D-Claw simulation produces a larger peak amplitude, however—particularly near the source area—and it involves no user intervention to create evolving boundary conditions.
+Figure 6 compares results generated by using our new methodology and the more conventional and more labor-intensive boundary-displacement methodology to compute time series of water waves at five locations in Taan Fjord and Icy Bay. Given the dramatically different assumptions about wave generation processes in these alternative approaches, broadly similar tsunami waves are predicted at points distant from the landslide. The seamless D-Claw simulation produces a larger peak amplitude, however—particularly near the source area—and it involves no user intervention to create evolving boundary conditions.
 
 ---
 #### Conclusions
