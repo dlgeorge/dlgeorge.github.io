@@ -31,14 +31,15 @@ The simulation of advancing flood waves over rugged topography, by solving the s
 
 ---
 <figure>
-<figcaption> Figure 1. Photograph of the Malpasset Dam, before and after its catastrophic failure (source unknown).</figcaption>
-<div class="gallery" data-columns="1">
+<figcaption> Figure 1. Photographs of the Malpasset Dam, before and after its catastrophic failure and the resulting destruction in Frejus, France 1959 (sources unknown).</figcaption>
+<div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/malpasset/malpasset_dam_beforeafter.jpg">
+    <img src="{{ site.baseurl }}/images/projects/malpasset/Frejus_photo.jpg">
 </div>
 </figure>
 ---
 
-The Malpasset Dam was located in a narrow gorge above the steeply banked Reyran River Valley about 12 km north of the town of Frejus on the French Riviera. The double arch dam was 66.5-m high and approximately 223-m wide along the top arch. For the 5 years following the completion of the dam in 1954, the reservoir behind the dam was slowly filled, nearing capacity in November 1959. During a period of intense rainfall from November 19 to December 2, the reservoir reached the crest of the dam, prompting the opening of the outlet gates at 6 P.M. on December 2. The dam failed catastrophically at 9:14 P.M., sending a massive wave 40–60-m high into the winding gorge below. Although there were no surviving eyewitnesses, the dam failure was believed to have been sudden and explosive. The resulting violent flood wave altered the landscape and destroyed bridges, roads and several buildings along its path down the river gorge before flooding the low-lying Reyran River Valley surrounding the town of Frejus. The flood waters finally reached the Fr´ejus Gulf 21 min later. There were 421 casualties.
+The Malpasset Dam was located in a narrow gorge above the steeply banked Reyran River Valley about 12 km north of the town of Frejus on the French Riviera. The double arch dam was 66.5-m high and approximately 223-m wide along the top arch. For the 5 years following the completion of the dam in 1954, the reservoir behind the dam was slowly filled, nearing capacity in November 1959. During a period of intense rainfall from November 19 to December 2, the reservoir reached the crest of the dam, prompting the opening of the outlet gates at 6 P.M. on December 2. The dam failed catastrophically at 9:14 P.M., sending a massive wave 40–60-m high into the winding gorge below. Although there were no surviving eyewitnesses, the dam failure was believed to have been sudden and explosive. The resulting violent flood wave altered the landscape and destroyed bridges, roads and several buildings along its path down the river gorge before flooding the low-lying Reyran River Valley surrounding the town of Frejus. The flood waters finally reached the Fr´ejus Gulf 21 min later. There were 412 casualties.
 
 ###  Testing outburst flood with GeoClaw
 
