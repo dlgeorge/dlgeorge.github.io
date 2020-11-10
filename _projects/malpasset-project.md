@@ -13,10 +13,11 @@ This page features material and excerpts from:
 **Adaptive finite volume methods with well-balanced Riemann solvers for modeling floods in rugged terrain: application to the Malpasset dam-break flood (France, 1959).** D.L. George, 2010. *Int. J. Numer. Methods Fluids*, 66(8): 1000--1018. [pdf]({{ site.baseurl }}/pubs/George2010_IJNMF.pdf)
 
 <figure>
-<div class="gallery" data-columns="1">
-    <img src="{{ site.baseurl }}/images/projects/malpasset/malpasset_oblique.gif">
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/malpasset/site-de-malpasset.jpg">
+    <img src="{{ site.baseurl }}/images/projects/malpasset/malpasset_paper_3m_3l_200s_0.5res.gif">
 </div>
-<figcaption>GeoClaw animation of the Malpasset dam-break </figcaption>
+<figcaption>Left: photograph of the dam ruins. Right: GeoClaw animation of the Malpasset dam-break </figcaption>
 </figure>
 
 ---
@@ -52,7 +53,7 @@ GeoClaw's algorithms are more generally applicable to free-surface water flows o
 </figure>
 
 <figure>
-<figcaption> Figure 4. GeoClaw simulations of the Malpasset dam-break flood.  Left: Overhead views at selected times. Initially the reservoir is resolved on a level-2 grid (top), whereas the remainder of the domain is resolved on the coarse level-1 grid. After the initial dam break, level-3 and level-4 grids follow the flood waves as they advance down the river valley toward Frejus and the Mediterranean Sea. Grid lines are omitted from grid levels 3–4 for clarity. Level-4 grids are outlined. Right: Close-up view of the dam break during the first 200 s of the 3-m simulation. Initially the dam and reservoir are resolved on level-2 grids and coarse level-1 grid cells can be seen in the foreground. After the initial dam break, level-3 and level-4 grids resolve the flood waves as they advance down the winding ravineLeft:  </figcaption>
+<figcaption> Figure 3. GeoClaw simulations of the Malpasset dam-break flood.  Left: Overhead views at selected times. Initially the reservoir is resolved on a level-2 grid (top), whereas the remainder of the domain is resolved on the coarse level-1 grid. After the initial dam break, level-3 and level-4 grids follow the flood waves as they advance down the river valley toward Frejus and the Mediterranean Sea. Grid lines are omitted from grid levels 3–4 for clarity. Level-4 grids are outlined. Right: Close-up view of the dam break during the first 200 s of the 3-m simulation. Initially the dam and reservoir are resolved on level-2 grids and coarse level-1 grid cells can be seen in the foreground. After the initial dam break, level-3 and level-4 grids resolve the flood waves as they advance down the winding ravineLeft:  </figcaption>
 <div class="gallery" data-columns="2">
     <img src="/images/projects/malpasset/George2010_IJNMF_figure9.jpg">
     <img src="/images/projects/malpasset/George2010_IJNMF_figure10.jpg">
@@ -68,7 +69,7 @@ The results of the GeoClaw simulations were compared against historical survey d
 
 ---
 <figure>
-<figcaption> Figure 5. Comparison of simulation results with field data for the maximum water elevation at the 17 police-surveyed points (left), and laboratory model data for the maximum water elevation at nine gauge locations (right). See (George, 2010) for more information and location of points.</figcaption>
+<figcaption> Figure 4. Comparison of simulation results with field data for the maximum water elevation at the 17 police-surveyed points (left), and laboratory model data for the maximum water elevation at nine gauge locations (right). See (George, 2010) for more information and location of points.</figcaption>
 <div class="gallery" data-columns="2">
     <img src="{{ site.baseurl }}/images/projects/malpasset/malpasset_surveypts.jpg">
     <img src="{{ site.baseurl }}/images/projects/malpasset/malpasset_modelpts.jpg">

@@ -17,7 +17,13 @@ see also:
 
 **Landslide mobility and hazards: implications of the 2014 Oso disaster.** R.M. Iverson, D.L. George, et al., 2015. *Earth Planet. Sci. Lett.*, V. 412, pp. 197--208. [pdf]({{ site.baseurl }}/pubs/IversonGeorgeEtAl2015_EPSL_Oso.pdf)
 
-![](/images/projects/oso/Oso_arial_photo.jpg)
+<figure>
+<figcaption> </figcaption>
+<div class="gallery" data-columns="2">
+    <img src="{{ site.baseurl }}/images/projects/oso/Oso_arial_photo.jpg">
+    <img src="{{ site.baseurl }}/images/projects/oso/oso_oblique_m62_epsl_0.4res_rcolor.gif">
+</div>
+</figure>
 
 ---
 #### Abstract
@@ -81,7 +87,7 @@ Models that aim to explain the behaviour of landslides that liquefy must also be
 
 ---
 <figure>
-<figcaption>Figure 5. D-Claw model results showing different mobilities based on the relative values of the critical (0.64) and initial (m0) porosities. Decreasing inital porosities lead to enhanced mobility due to dilatancy effects and liquefaction.</figcaption>
+<figcaption>Figure 5. D-Claw model results showing the final runout and deposition at t = 10 minutes, comparing different mobilities based on the relative values of 5 initial (m0) porosities and a fixed critical (m_critical=0.64) porosity. Decreasing inital porosities lead to enhanced mobility due to dilatancy effects and liquefaction. All of these results show contractive behavior with m0 < m_cricital. </figcaption>
 <div class="gallery" data-columns="1">
     <img src="{{ site.baseurl }}/images/projects/oso/DClawMobilities_6panel.png">
 </div>
