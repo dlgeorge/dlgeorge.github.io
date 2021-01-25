@@ -7,7 +7,7 @@ featured_image: /images/pages/Vesuvio_dlg_crop.jpg
 
 ## Summary
 
-My research is broadly in applied mathematics, scientific computing, and fluid dynamics. I study and develop mathematical models, numerical algorithms, and open-source software for applications involving fluid flows, granular-fluid mechanics, and wave propagation. My research focus involves PDEs (particularly hyperbolic systems), finite volume numerical methods, and adaptive mesh refinement techniques. I currently investigate shallow earth-surface flows with varying granular and fluid compositions. Examples include tsunamis, overland flooding, sediment-laden flows, and dense granular-fluid flows such as landslides and debris flows.
+My research is broadly in applied mathematics, scientific computing, and fluid dynamics. I study and develop mathematical models, numerical algorithms, and open-source software for applications involving fluid flows, granular-fluid mechanics, and wave propagation. My research focus involves PDEs (particularly hyperbolic systems), finite volume numerical methods, well-balanced methods, and adaptive mesh refinement techniques. I currently investigate shallow earth-surface flows with varying granular and fluid compositions. Examples include tsunamis, overland flooding, sediment-laden flows, and dense granular-fluid flows such as landslides and debris flows.
 
 ## Appointments
 
@@ -24,7 +24,7 @@ My research is broadly in applied mathematics, scientific computing, and fluid d
 * MS Applied Mathematics, University of Washington, Seattle, 2004.
 * BA Physics, U.C. Santa Barbara, 1999.
 * BS Biological Sciences, U.C. Santa Barbara, 1999.
-* BA Anthropology, U.C. Santa Barbara, 1997.
+* BA Physical Anthropology, U.C. Santa Barbara, 1997.
 
 
 
