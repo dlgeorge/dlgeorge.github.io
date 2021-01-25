@@ -5,6 +5,7 @@ description: citations and/or links
 featured_image: /images/pages/CVO_library.jpg
 ---
 
+#### [Google Scholar Profile](https://scholar.google.com/citations?user=p9fuq1oAAAAJ&hl=en)
 
 #### Journal articles
 *  **Landslide monitoring and runout hazard assessment by integrating multi-source remote sensing and numerical models: An application to the Gold Basin landslide complex, northern Washington,** Y. Xu, D.L. George, J. Kim, Z. Lu, M. Riley, T. Griffin, and J. Fuente, 2020. *Landslides,* to appear.
