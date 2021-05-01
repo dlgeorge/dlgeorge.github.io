@@ -8,7 +8,10 @@ featured_image: /images/pages/CVO_library.jpg
 #### [Google Scholar profile](https://scholar.google.com/citations?user=p9fuq1oAAAAJ&hl=en)
 
 #### Journal articles
-*  **Landslide monitoring and runout hazard assessment by integrating multi-source remote sensing and numerical models: An application to the Gold Basin landslide complex, northern Washington,** Y. Xu, D.L. George, J. Kim, Z. Lu, M. Riley, T. Griffin, and J. Fuente, 2020. *Landslides,* to appear.
+* **Diverse cataclysmic floods from Pleistocene glacial Lake Missoula,**
+R.P. Denlinger, D.L. George, C.M. Cannon, J.E. O’Connor and R.B. Waitt, 2021.
+ *Untangling the Quaternary Period: A Legacy of Stephen C. Porter,* 548, 333.
+*  **Landslide monitoring and runout hazard assessment by integrating multi-source remote sensing and numerical models: An application to the Gold Basin landslide complex, northern Washington,** Y. Xu, D.L. George, J. Kim, Z. Lu, M. Riley, T. Griffin, and J. Fuente, 2021. *Landslides,* 18 (3), 1131-1141.
 * **The Missoula and Bonneville Floods – A review of Ice-Age megafloods in the Columbia River Basin,** J.E. O’Connor, V.R. Baker, R.B. Waitt, L.N. Smith, C.M. Cannon, D.L. George,  and R.P. Denlinger, 2020. *Earth Science Reviews,* V. 208, 103181.
 * **Basal stress equations for granular masses on smooth or discretized slopes**, R.M. Iverson and D.L. George, 2019. *J. Geophys. Res.: Earth Surface,* V. 124(6), 1464–1484.
 * **Characterizing seasonally rainfall-driven movement of a translational landslide using SAR imagery and SMAP soil moisture.** Y. Xu, J. Kim, D.L. George and Z. Lu, 2019. *Remote Sensing,* 11 (20), 2347. [pdf]({{ site.baseurl }}/pubs/XuKimEtAl2019_RemoteSensing.pdf)
@@ -39,5 +42,3 @@ featured_image: /images/pages/CVO_library.jpg
 * **Parallelization of GeoClaw code for modeling geophysical flows with adaptive mesh refinement on many-core systems.** S. Zhang, D.A. Yuen, A. Zhu, S. Song, D.L. George, 2011. *Proc. 14th IEEE Int. Conf. on Computational Science and Engineering*, CSE, pp. 573--579.
 * **High-resolution methods and adaptive refinement for tsunami propagation and inundation.**  D.L. George and R.J. LeVeque, 2008. In S. Benzoni-Gavage and D. Serre, editors, *Hyperbolic Problems: Theory, Numerics, Applications*, pp. 541--549, Springer.
 * **High-resolution finite volume methods for the shallow water equations with topography and dry-states.** R.J. LeVeque and D.L. George, 2008. In P. L. Liu, C. Synolakis, and H. Yeh, editors, *Advanced Numerical Models for Simulating Tsunami Waves and Runup,* vol. 10 of *Advances in Coastal and Ocean Engineering*, pp. 43--73. World Scientific.
-
-
