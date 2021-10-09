@@ -19,11 +19,11 @@ featured_image: /images/pages/CVO_library.jpg
 #### Journal articles
 * **Diverse cataclysmic floods from Pleistocene glacial Lake Missoula,**
 R.P. Denlinger, D.L. George, C.M. Cannon, J.E. O’Connor and R.B. Waitt, 2021.
- *Untangling the Quaternary Period: A Legacy of Stephen C. Porter, GSA Special Paper* 548, 333.
-* **When hazard avoidance is not an option: lessons learned from monitoring the postdisaster Oso landslide, USA,** Reid, Godt, et al., 2021. *Landslides,* 1-17.
+ *Untangling the Quaternary Period: A Legacy of Stephen C. Porter, GSA Special Paper* 548, 333. [pdf]({{ site.baseurl }}/pubs/DenlingerGeorgeEtAl2021.pdf)
+* **When hazard avoidance is not an option: lessons learned from monitoring the postdisaster Oso landslide, USA,** Reid, Godt, et al., 2021. *Landslides,* 1-17. [pdf]({{ site.baseurl }}/pubs/ReidGodtEtAl2021.pdf)
 *  **Landslide monitoring and runout hazard assessment by integrating multi-source remote sensing and numerical models: An application to the Gold Basin landslide complex, northern Washington,** Y. Xu, D.L. George, J. Kim, Z. Lu, M. Riley, T. Griffin, and J. Fuente, 2021. *Landslides,* 18 (3), 1131-1141.
-* **The Missoula and Bonneville Floods – A review of Ice-Age megafloods in the Columbia River Basin,** J.E. O’Connor, V.R. Baker, R.B. Waitt, L.N. Smith, C.M. Cannon, D.L. George,  and R.P. Denlinger, 2020. *Earth Science Reviews,* V. 208, 103181.
-* **Basal stress equations for granular masses on smooth or discretized slopes**, R.M. Iverson and D.L. George, 2019. *J. Geophys. Res.: Earth Surface,* V. 124(6), 1464–1484.
+* **The Missoula and Bonneville Floods – A review of Ice-Age megafloods in the Columbia River Basin,** J.E. O’Connor, V.R. Baker, R.B. Waitt, L.N. Smith, C.M. Cannon, D.L. George,  and R.P. Denlinger, 2020. *Earth Science Reviews,* V. 208, 103181. [pdf]({{ site.baseurl }}/pubs/OConnorBakerEtAl2020.pdf)
+* **Basal stress equations for granular masses on smooth or discretized slopes**, R.M. Iverson and D.L. George, 2019. *J. Geophys. Res.: Earth Surface,* V. 124(6), 1464–1484. [pdf]({{ site.baseurl }}/pubs/IversonGeorgeEtAl2019_JGR_basalstress.pdf)
 * **Characterizing seasonally rainfall-driven movement of a translational landslide using SAR imagery and SMAP soil moisture.** Y. Xu, J. Kim, D.L. George and Z. Lu, 2019. *Remote Sensing,* 11 (20), 2347. [pdf]({{ site.baseurl }}/pubs/XuKimEtAl2019_RemoteSensing.pdf)
 * **Surrogate-based parameter inference in debris flow model.** M. Navarro, O.P. Le Maître, I. Hoteit, D.L. George, K.T. Mandli and O.M. Knio, 2018. *Computational Geosciences,* 22 (6), 1447--1463.
 * **Combining InSAR and GPS to determine transient movement and thickness of a seasonally active low-gradient translational landslide.** X. Hu, Z. Lu, T.C. Pierson, R. Kramer and D.L. George, 2018. *Geophys. Res. Lett.*, V. 45(3), 1453--1462. [pdf]({{ site.baseurl }}/pubs/HuLuEtAl2018_GRL.pdf)
@@ -35,7 +35,7 @@ R.P. Denlinger, D.L. George, C.M. Cannon, J.E. O’Connor and R.B. Waitt, 2021.
 
 #### Other articles (proceedings, book chapters, technical reports, etc.)
 * **Modeling the dynamics of lahars that originate as landslides on the west side of Mount Rainier: Preliminary results,** D.L. George, R.M. Iverson, and C.M. Cannon, 2021. *USGS Open-File Report*, to appear.
-* **Preliminary assessment of the wave generating potential from landslides at Barry Arm, Prince William Sound, Alaska.,** K.R. Barnhart, R.P. Jones, D.L. George, J.A. Coe, and D.M. Staley, 2021. *USGS Open-File Report*, 1071.
+* **Preliminary assessment of the wave generating potential from landslides at Barry Arm, Prince William Sound, Alaska.,** K.R. Barnhart, R.P. Jones, D.L. George, J.A. Coe, and D.M. Staley, 2021. *USGS Open-File Report*, 1071. [pdf]({{ site.baseurl }}/pubs/BarnhartJonesEtAl2021.pdf)
 * **Seamless numerical simulation of a hazard cascade in which a landslide triggers a dam-breach flood and consequent debris flow,** D.L. George, R.M. Iverson, and C.M. Cannon, 2019. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.* [pdf]({{ site.baseurl }}/pubs/GeorgeIversonCannon_7thDFHM.pdf)
 * **Valid debris-flow models must avoid hot starts,** R.M. Iverson and D.L. George, 2019. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.*
 * **Overcoming barriers to progress in seismic monitoring and characterization of debris flows and lahars,** K.E. Allstadt, M. Farin, A.B. Lockhart, S.K. McBride, J.W. Kean, R.M. Iverson, M. Logan, J.B. Smith, V.C. Tsai and D.L. George, 2019. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.*
