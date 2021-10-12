@@ -53,7 +53,7 @@ Our results reflect a refinement on anticipated wave heights near the landslide,
 <figure>
 <figcaption>Figure 1.  A, Prince William Sound, Alaska, and B, the region between Whittier, Alaska, and the landslide source area. Both maps indicate place names discussed in the text, and panel A indicates the considered computational domain. (from Barnhart et al., 2021). </figcaption>
 <div class="gallery" data-columns="1">
-    <img src="{{ site.baseurl }}/images/projects/barryarm/Figure1/Figure1.png">
+    <img src="{{ site.baseurl }}/images/projects/barryarm/Figure1.png">
 </div>
 </figure>
 
