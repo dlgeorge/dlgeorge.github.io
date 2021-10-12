@@ -9,7 +9,7 @@ featured_image: '/images/projects/barryarm/OverheadPhoto_wtxt.png'
 
 ### Modeling a potential large landslide and resulting tsunami in Prince William Sound, Alaska
 
-This page features excerpts and figures from:
+This page is a summary of, and features excerpts and figures from the following report:
 
 **Preliminary assessment of the wave generating potential from landslides at Barry Arm, Prince William Sound, Alaska.**, K.R. Barnhart, R.P. Jones, D.L. George, J.A. Coe, and D.M. Staley, 2021. *USGS Open-File Report*, 1071. [pdf]({{ site.baseurl }}/pubs/BarnhartJonesEtAl2021.pdf)
 
