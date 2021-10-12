@@ -3,7 +3,7 @@ title: 'Assessment of a landslide tsunami threat in Alaska'
 subtitle: 'modeling a hypothetical landslide, wave generation, and resulting tsunami with D-Claw'
 date: 2021-08-01 00:00:00
 description: Assessment of the wave generating potential of a large landslide failure in the Barry Arm of Harriman Fjord, Prince William Sound, Alaksa.
-featured_image: '/images/projects/tyndall/ObliqueDClaw60s.png'
+featured_image: '/images/projects/barryarm/OverheadPhoto_wtxt.png'
 ---
 
 
