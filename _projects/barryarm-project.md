@@ -1,8 +1,8 @@
 ---
-title: 'Assessing the tsunamigenic potential from a large landslide in Alaska'
-subtitle: 'modeling a hypothetical landslide, wave generation, and tsunamis in Prince William Sound, Alaska, with D-Claw'
+title: 'Assessment of a landslide tsunami threat in Alaska'
+subtitle: 'modeling a hypothetical landslide, wave generation, and resulting tsunami with D-Claw'
 date: 2021-08-01 00:00:00
-description: Case study of assessing wave potential by modeling a large landslide failure from the monitored site in the Barry Arm of Harriman Fjord, Prince William Sound, Alaksa.
+description: Assessment of the wave generating potential of a large landslide failure in the Barry Arm of Harriman Fjord, Prince William Sound, Alaksa.
 featured_image: '/images/projects/tyndall/ObliqueDClaw60s.png'
 ---
 
@@ -11,7 +11,7 @@ featured_image: '/images/projects/tyndall/ObliqueDClaw60s.png'
 
 This page features excerpts and figures from:
 
-Preliminary assessment of the wave generating potential from landslides at Barry Arm, Prince William Sound, Alaska.,** K.R. Barnhart, R.P. Jones, D.L. George, J.A. Coe, and D.M. Staley, 2021. *USGS Open-File Report*, 1071. [pdf]({{ site.baseurl }}/pubs/BarnhartJonesEtAl2021.pdf)
+**Preliminary assessment of the wave generating potential from landslides at Barry Arm, Prince William Sound, Alaska.**, K.R. Barnhart, R.P. Jones, D.L. George, J.A. Coe, and D.M. Staley, 2021. *USGS Open-File Report*, 1071. [pdf]({{ site.baseurl }}/pubs/BarnhartJonesEtAl2021.pdf)
 
 <figure>
 <figcaption>Barry Arm of Harriman Fjord, Prince William Sound. </figcaption>
