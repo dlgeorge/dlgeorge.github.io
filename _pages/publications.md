@@ -21,7 +21,7 @@ featured_image: /images/pages/CVO_library.jpg
 * **Diverse cataclysmic floods from Pleistocene glacial Lake Missoula,**
 R.P. Denlinger, D.L. George, C.M. Cannon, J.E. O’Connor and R.B. Waitt, 2021.
  *Untangling the Quaternary Period: A Legacy of Stephen C. Porter, GSA Special Paper* 548, 333. [pdf]({{ site.baseurl }}/pubs/DenlingerGeorgeEtAl2021.pdf)
-* **When hazard avoidance is not an option: lessons learned from monitoring the postdisaster Oso landslide, USA,** Reid, Godt, et al., 2021. *Landslides,* 1-17. [pdf]({{ site.baseurl }}/pubs/ReidGodtEtAl2021.pdf)
+* **When hazard avoidance is not an option: lessons learned from monitoring the postdisaster Oso landslide, USA,** Reid, M.E. et al., 2021. *Landslides,* 18 (9), 2993-3009. [pdf]({{ site.baseurl }}/pubs/ReidGodtEtAl2021.pdf)
 *  **Landslide monitoring and runout hazard assessment by integrating multi-source remote sensing and numerical models: An application to the Gold Basin landslide complex, northern Washington,** Y. Xu, D.L. George, J. Kim, Z. Lu, M. Riley, T. Griffin, and J. Fuente, 2021. *Landslides,* 18 (3), 1131-1141.
 * **The Missoula and Bonneville Floods – A review of Ice-Age megafloods in the Columbia River Basin,** J.E. O’Connor, V.R. Baker, R.B. Waitt, L.N. Smith, C.M. Cannon, D.L. George,  and R.P. Denlinger, 2020. *Earth Science Reviews,* V. 208, 103181. [pdf]({{ site.baseurl }}/pubs/OConnorBakerEtAl2020.pdf)
 * **Basal stress equations for granular masses on smooth or discretized slopes**, R.M. Iverson and D.L. George, 2019. *J. Geophys. Res.: Earth Surface,* V. 124(6), 1464–1484. [pdf]({{ site.baseurl }}/pubs/IversonGeorgeEtAl2019_JGR_basalstress.pdf)
