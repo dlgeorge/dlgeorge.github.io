@@ -17,6 +17,7 @@ featured_image: /images/pages/CVO_library.jpg
 * **Augmented Riemann solvers for the shallow water equations over variable topography with steady states and inundation.** D. L. George, 2008. *J. Comput. Phys.*, 227(6): 3089--3113. [pdf]({{ site.baseurl }}/pubs/George2008_JCP.pdf)
 
 #### Journal articles
+* **Insights on multistage rock avalanche behavior from runout modeling constrainged by seismic inversions**, A. Mitchell, K.E. Allstadt, D.L. George, J. Aaron, S. McDougall, J. Moore, and B. Menounos, 2022. *J. Geophys. Res.: Solid Earth,* V. 127(10), e2021JB023444.
 * **Multi-model comparison of computed debris flow runout of the 9 January 2018 Montecito, California post-wildfire event**, K.R. Barnhart, R.P. Jones, D.L. George, B.W. McArdell, F.K. Rengers, D.M. Staley, and J.W. Kean, 2021. *J. Geophys. Res.: Earth Surface,* V. 126(12), 1464–1484.
 * **Diverse cataclysmic floods from Pleistocene glacial Lake Missoula,**
 R.P. Denlinger, D.L. George, C.M. Cannon, J.E. O’Connor and R.B. Waitt, 2021.
@@ -35,7 +36,7 @@ R.P. Denlinger, D.L. George, C.M. Cannon, J.E. O’Connor and R.B. Waitt, 2021.
 * **Finite volume methods and adaptive refinement for global tsunami propagation and inundation.** D.L. George and R.J. LeVeque, 2006. *Science of Tsunami Hazards*, Vol. 24. No. 5, 319--328.
 
 #### Other articles (proceedings, book chapters, technical reports, etc.)
-* **Modeling the dynamics of lahars that originate as landslides on the west side of Mount Rainier,** D.L. George, R.M. Iverson, and C.M. Cannon, 2021. *USGS Open-File Report*, 2011-1118.
+* **Modeling the dynamics of lahars that originate as landslides on the west side of Mount Rainier,** D.L. George, R.M. Iverson, and C.M. Cannon, 2022. *USGS Open-File Report*, 2021-1118.
 * **Preliminary assessment of the wave generating potential from landslides at Barry Arm, Prince William Sound, Alaska.,** K.R. Barnhart, R.P. Jones, D.L. George, J.A. Coe, and D.M. Staley, 2021. *USGS Open-File Report*, 1071. [pdf]({{ site.baseurl }}/pubs/BarnhartJonesEtAl2021.pdf)
 * **Seamless numerical simulation of a hazard cascade in which a landslide triggers a dam-breach flood and consequent debris flow,** D.L. George, R.M. Iverson, and C.M. Cannon, 2019. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.* [pdf]({{ site.baseurl }}/pubs/GeorgeIversonCannon_7thDFHM.pdf)
 * **Valid debris-flow models must avoid hot starts,** R.M. Iverson and D.L. George, 2019. *Debris-Flow Hazards Mitigation: Mechanics, Monitoring, Modeling, and Assessment, Association of Environmental and Engineering Geologists, Special Publication 28.*
