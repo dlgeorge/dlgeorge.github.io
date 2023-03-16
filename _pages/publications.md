@@ -17,6 +17,7 @@ featured_image: /images/pages/CVO_library.jpg
 * **Augmented Riemann solvers for the shallow water equations over variable topography with steady states and inundation.** D. L. George, 2008. *J. Comput. Phys.*, 227(6): 3089--3113. [pdf]({{ site.baseurl }}/pubs/George2008_JCP.pdf)
 
 #### Journal articles
+* **Simulating debris flow and levee formation in the 2D shallow flow model D-Claw: channelized and unconfined flow**, R.P. Jones, F.K. Rengers, K.R. Barnhart, D.L. George, D.M. Staley, J.W. Kean, 2023. *J. Earth and Space Science,* 10(2), e2022EA002590.
 * **Insights on multistage rock avalanche behavior from runout modeling constrainged by seismic inversions**, A. Mitchell, K.E. Allstadt, D.L. George, J. Aaron, S. McDougall, J. Moore, and B. Menounos, 2022. *J. Geophys. Res.: Solid Earth,* V. 127(10), e2021JB023444.
 * **Multi-model comparison of computed debris flow runout of the 9 January 2018 Montecito, California post-wildfire event**, K.R. Barnhart, R.P. Jones, D.L. George, B.W. McArdell, F.K. Rengers, D.M. Staley, and J.W. Kean, 2021. *J. Geophys. Res.: Earth Surface,* V. 126(12), 1464–1484.
 * **Diverse cataclysmic floods from Pleistocene glacial Lake Missoula,**
